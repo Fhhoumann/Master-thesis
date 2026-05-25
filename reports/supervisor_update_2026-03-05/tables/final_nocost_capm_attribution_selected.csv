@@ -1,0 +1,4 @@
+run_key,return_type,cost_convention,cost_bps,regime,model,status,n_obs,alpha_monthly,alpha_annualized,alpha_tstat,r2,beta_mkt_rf
+final_onestep_torch_rolling_nocost_v1/onestep,gross,none,0.0,full_sample,capm,ok,300,-0.0031921458895073,-0.0376403290526963,-2.6607731382918134,0.0012973979466234,-0.0158629823427987
+final_twostep_elasticnet_rolling_nocost_v1/twostep,gross,none,0.0,full_sample,capm,ok,300,-0.0014047072087636,-0.0167268630173387,-2.9414521659986046,0.092369494631319,-0.0567992087687174
+final_twostep_random_forest_rolling_nocost_v2/twostep,gross,none,0.0,full_sample,capm,ok,300,-0.0018967012979731,-0.0225244769193124,-1.545610438580898,0.0008900100397268,-0.0137476464466972

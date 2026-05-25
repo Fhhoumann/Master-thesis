@@ -1,0 +1,8 @@
+# Step 3 Pairwise Sharpe-Difference Tests
+
+```text
+                      strategy_a                       strategy_b  n_obs  block_size  bootstrap_resamples  delta_sharpe  se_delta  ci_lower  ci_upper  p_value                                                 method  block_size_calibrated candidate_block_sizes  calibration_target_coverage  calibration_pseudo_sequences  calibration_bootstrap_resamples  residual_bootstrap_avg_block_size  calibration_g_hat  calibration_abs_gap
+  Elastic Net Step 2 constrained Random Forest Step 2 constrained    300           1                  999     -0.066988  0.032554 -0.133218 -0.000757    0.047 Ledoit-Wolf style studentized circular block bootstrap                   True          1,2,4,6,8,10                         0.95                            49                               99                                5.0                1.0                 0.05
+  Elastic Net Step 2 constrained                  Torch gamma 5.0    300           1                  999     -0.138056  0.038766 -0.217032 -0.059081    0.001 Ledoit-Wolf style studentized circular block bootstrap                   True          1,2,4,6,8,10                         0.95                            49                               99                                5.0                1.0                 0.05
+Random Forest Step 2 constrained                  Torch gamma 5.0    300           1                  999     -0.071069  0.043217 -0.156443  0.014306    0.108 Ledoit-Wolf style studentized circular block bootstrap                   True          1,2,4,6,8,10                         0.95                            49                               99                                5.0                1.0                 0.05
+```

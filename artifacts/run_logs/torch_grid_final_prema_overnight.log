@@ -1,0 +1,13 @@
+[Thu Apr 23 21:18:06 CEST 2026] Starting frozen pre-MA Torch gamma-grid pipeline
+[Thu Apr 23 21:18:06 CEST 2026] Starting configs/experiments/macroext_onestep_torch_supervisor_ra010_final_prema_v1.yaml
+[Thu Apr 23 22:12:19 CEST 2026] Finished configs/experiments/macroext_onestep_torch_supervisor_ra010_final_prema_v1.yaml
+[Thu Apr 23 22:12:19 CEST 2026] Starting configs/experiments/macroext_onestep_torch_supervisor_ra050_final_prema_v1.yaml
+[Thu Apr 23 23:00:05 CEST 2026] Finished configs/experiments/macroext_onestep_torch_supervisor_ra050_final_prema_v1.yaml
+[Thu Apr 23 23:00:05 CEST 2026] Starting configs/experiments/macroext_onestep_torch_supervisor_ra100_final_prema_v1.yaml
+[Thu Apr 23 23:48:03 CEST 2026] Finished configs/experiments/macroext_onestep_torch_supervisor_ra100_final_prema_v1.yaml
+[Thu Apr 23 23:48:03 CEST 2026] Starting configs/experiments/macroext_onestep_torch_supervisor_ra200_final_prema_v1.yaml
+[Fri Apr 24 00:37:18 CEST 2026] Finished configs/experiments/macroext_onestep_torch_supervisor_ra200_final_prema_v1.yaml
+[Fri Apr 24 00:37:18 CEST 2026] Starting configs/experiments/macroext_onestep_torch_supervisor_ra300_final_prema_v1.yaml
+[Fri Apr 24 01:25:39 CEST 2026] Finished configs/experiments/macroext_onestep_torch_supervisor_ra300_final_prema_v1.yaml
+[Fri Apr 24 01:25:39 CEST 2026] Skipping macroext_onestep_torch_supervisor_ra500_final_prema_v1 (summary already present)
+[Fri Apr 24 01:25:39 CEST 2026] Frozen pre-MA Torch gamma-grid pipeline completed

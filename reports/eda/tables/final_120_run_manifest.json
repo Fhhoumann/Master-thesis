@@ -1,0 +1,30 @@
+{
+  "main_specs": [
+    {
+      "key": "EN_twostep",
+      "pipeline": "twostep",
+      "cfg": "final_twostep_elasticnet_rolling_nocost.yaml",
+      "artifact_run_name": "final_twostep_elasticnet_rolling_nocost_v1"
+    },
+    {
+      "key": "RF_twostep",
+      "pipeline": "twostep",
+      "cfg": "final_twostep_random_forest_rolling_nocost.yaml",
+      "artifact_run_name": "final_twostep_random_forest_rolling_nocost_v2"
+    },
+    {
+      "key": "Torch_onestep",
+      "pipeline": "onestep",
+      "cfg": "final_onestep_torch_rolling_nocost_v2.yaml",
+      "artifact_run_name": "final_onestep_torch_rolling_nocost_v2"
+    }
+  ],
+  "run_robustness": false,
+  "outputs": {
+    "main_table": "/Users/frederikhoumann/Desktop/university/kandidat/4. semester/projekt/reports/eda/tables/final_120_nocost_main_table.csv",
+    "capm_table": "/Users/frederikhoumann/Desktop/university/kandidat/4. semester/projekt/reports/eda/tables/final_120_nocost_capm_table.csv",
+    "ff3_carhart_table": "/Users/frederikhoumann/Desktop/university/kandidat/4. semester/projekt/reports/eda/tables/final_120_ff3_carhart_table.csv",
+    "costs_table": "/Users/frederikhoumann/Desktop/university/kandidat/4. semester/projekt/reports/eda/tables/final_120_costs_main_table.csv",
+    "cum_plot": "/Users/frederikhoumann/Desktop/university/kandidat/4. semester/projekt/reports/eda/figures/final_120_nocost_cumulative_returns.png"
+  }
+}

@@ -1,0 +1,30 @@
+datacube_path: DataCube_1990_2024.mat
+panel_input_path: artifacts/datasets/panel/panel.parquet
+feature_input_path: artifacts/features/features.parquet
+artifacts_root: artifacts
+output_dir: reports/eda
+factor_cache_path: artifacts/factors/ken_french_monthly.parquet
+momentum_factor_cache_path: artifacts/factors/ken_french_momentum_monthly.parquet
+factor_refresh: false
+regression_min_obs: 24
+benchmark_top_quantile: 0.10
+benchmark_return_types: [gross, net]
+benchmark_models: [ff3, carhart4, ff5]
+
+mode: full
+quick_sample_assets: 250
+quick_sample_time: 240
+
+baseline_cost_convention: one_way
+baseline_cost_bps: 25.0
+rolling_window_months: 12
+min_cross_section_count: 50
+top_n_features: 6
+
+regimes:
+  - name: 1990s
+    start: 1990-01-01
+    end: 1999-12-31
+  - name: 2000+
+    start: 2000-01-01
+    end: 2024-12-31

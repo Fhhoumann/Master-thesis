@@ -1,0 +1,4 @@
+{
+  "rows": 2088,
+  "prediction_path": "artifacts/twostep_random_forest_smoke_v1/twostep/predictions.parquet"
+}

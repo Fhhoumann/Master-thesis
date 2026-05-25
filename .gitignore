@@ -1,0 +1,43 @@
+# Local environments and package caches
+.venv/
+.pytest_cache/
+.pycache_tmp/
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# OS/editor noise
+.DS_Store
+**/.DS_Store
+.ipynb_checkpoints/
+
+# Raw data and local archive bundles
+DataCube_1990_2024.mat
+fhdata_no_artifacts.zip
+
+# Large/generated intermediate data products
+artifacts/datasets/
+artifacts/features/
+artifacts/factors/
+artifacts/macro/
+
+# Local cache state
+artifacts/uv_cache/
+artifacts/.matplotlib/
+artifacts/.matplotlib_cache/
+
+# Office temporary lock files
+~$*
+reports/tables/~$*
+
+# Local dependency symlinks / accidental command-output folders
+reports/tables/xlsx_builder/node_modules
+reports/tables/xlsx_builder/build_signal_driver_workbook.mjs
+uv run --with pytest pytest -q tests/
+
+# Empty root-level scratch outputs
+/leaderboard.csv
+/missing_oos_returns_by_month.csv
+
+# Large interactive export kept locally
+reports/figures/08_crsp_id_returns_explorer.html

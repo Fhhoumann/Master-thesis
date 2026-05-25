@@ -1,0 +1,51 @@
+[Wed Apr 22 14:07:54 CEST 2026] Starting MA(3,12) rerun pipeline with fixed feature signals
+[Wed Apr 22 14:07:54 CEST 2026] Running Elastic Net constrained final spec
+[Wed Apr 22 14:08:33 CEST 2026] Starting MA(3,12) rerun pipeline with fixed feature signals
+[Wed Apr 22 14:08:33 CEST 2026] Running Elastic Net constrained final spec
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l1dcachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l2cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l3cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.optional.neon'. Detail: [errno 1] Operation not permitted
+Using 33 features: ['mom_12_1', 'mom_6_1', 'mom_3_1', 'tsmom_12', 'tsmom_sign_12']...
+Wrote predictions: artifacts/macroext_twostep_elasticnet_supervisor_constrained_v1/twostep/predictions.parquet
+Wrote weights: artifacts/macroext_twostep_elasticnet_supervisor_constrained_v1/twostep/weights.parquet
+Wrote backtest: artifacts/macroext_twostep_elasticnet_supervisor_constrained_v1/twostep/backtest.parquet
+Wrote summary: artifacts/macroext_twostep_elasticnet_supervisor_constrained_v1/twostep/summary.csv
+Wrote missing-return diagnostics: artifacts/macroext_twostep_elasticnet_supervisor_constrained_v1/twostep/missing_oos_returns_by_month.csv
+Wrote model diagnostics: artifacts/macroext_twostep_elasticnet_supervisor_constrained_v1/twostep/model_diagnostics.csv
+Wrote feature audit: artifacts/macroext_twostep_elasticnet_supervisor_constrained_v1/twostep/feature_audit.json
+Wrote config snapshot: artifacts/macroext_twostep_elasticnet_supervisor_constrained_v1/twostep/resolved_config.json
+[Wed Apr 22 14:18:08 CEST 2026] Running Random Forest constrained final spec
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l1dcachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l2cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l3cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.optional.neon'. Detail: [errno 1] Operation not permitted
+Using 18 features: ['mom_12_1', 'mom_6_1', 'mom_3_1', 'tsmom_12', 'tsmom_sign_12']...
+Wrote predictions: artifacts/macroext_twostep_random_forest_supervisor_constrained_v1/twostep/predictions.parquet
+Wrote weights: artifacts/macroext_twostep_random_forest_supervisor_constrained_v1/twostep/weights.parquet
+Wrote backtest: artifacts/macroext_twostep_random_forest_supervisor_constrained_v1/twostep/backtest.parquet
+Wrote summary: artifacts/macroext_twostep_random_forest_supervisor_constrained_v1/twostep/summary.csv
+Wrote missing-return diagnostics: artifacts/macroext_twostep_random_forest_supervisor_constrained_v1/twostep/missing_oos_returns_by_month.csv
+Wrote model diagnostics: artifacts/macroext_twostep_random_forest_supervisor_constrained_v1/twostep/model_diagnostics.csv
+Wrote feature audit: artifacts/macroext_twostep_random_forest_supervisor_constrained_v1/twostep/feature_audit.json
+Wrote config snapshot: artifacts/macroext_twostep_random_forest_supervisor_constrained_v1/twostep/resolved_config.json
+[Wed Apr 22 14:40:41 CEST 2026] Running Torch gamma 5.0 final spec
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l1dcachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l2cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l3cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.optional.neon'. Detail: [errno 1] Operation not permitted
+Using 18 features: ['mom_12_1', 'mom_6_1', 'mom_3_1', 'tsmom_12', 'tsmom_sign_12']...
+Wrote weights: artifacts/macroext_onestep_torch_supervisor_ra500_v1/onestep/weights.parquet
+Wrote backtest: artifacts/macroext_onestep_torch_supervisor_ra500_v1/onestep/backtest.parquet
+Wrote summary: artifacts/macroext_onestep_torch_supervisor_ra500_v1/onestep/summary.csv
+Wrote missing-return diagnostics: artifacts/macroext_onestep_torch_supervisor_ra500_v1/onestep/missing_oos_returns_by_month.csv
+Wrote feature audit: artifacts/macroext_onestep_torch_supervisor_ra500_v1/onestep/feature_audit.json
+Wrote config snapshot: artifacts/macroext_onestep_torch_supervisor_ra500_v1/onestep/resolved_config.json
+[Wed Apr 22 15:28:49 CEST 2026] Running updated Step 3 Sharpe-difference tests
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l1dcachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l2cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l3cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.optional.neon'. Detail: [errno 1] Operation not permitted
+Wrote Sharpe-difference table: artifacts/step3_sharpe_tests_selected_calibrated_ma312_fixedsignals/pairwise_sharpe_tests.csv
+Wrote Sharpe-difference markdown: artifacts/step3_sharpe_tests_selected_calibrated_ma312_fixedsignals/pairwise_sharpe_tests.md
+[Wed Apr 22 15:29:18 CEST 2026] Overnight MA(3,12) rerun pipeline completed

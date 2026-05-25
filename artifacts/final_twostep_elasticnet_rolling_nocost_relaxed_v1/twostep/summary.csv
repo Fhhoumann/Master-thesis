@@ -1,0 +1,2 @@
+cost_convention,cost_bps,avg_turnover,n_periods,periods_per_year,mean_period_return,std_period_return,annual_return,annual_volatility,sharpe,max_drawdown,cumulative_return,experiment,pipeline,model_type
+one_way,0.0,0.5912639455782314,300.0,12.0,0.006644110958763511,0.06899213121047919,0.05151564793965191,0.23899575315801683,0.13761056223267376,-0.7446175202069042,2.510698216430366,final_twostep_elasticnet_rolling_nocost_relaxed_v1,twostep,elasticnet

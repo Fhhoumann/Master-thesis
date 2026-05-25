@@ -1,0 +1,10 @@
+construction_mode: panel_rolling
+panel_input_dir: artifacts/datasets/smoke_panel/panel.parquet
+feature_output_dir: artifacts/features/smoke_features.parquet
+winsorize_lower: 0.01
+winsorize_upper: 0.99
+min_history: 26
+rsi_window: 14
+sma_windows: [3, 6, 12]
+volatility_windows: [3, 6, 12]
+bollinger_window: 20

@@ -1,0 +1,23 @@
+{
+  "elasticnet": {
+    "experiment": "macroext_twostep_elasticnet_supervisor_constrained_final_prema_v1",
+    "feature_count": 32,
+    "folds_analyzed": 2,
+    "output": "elasticnet_coefficients_aggregated.csv"
+  },
+  "random_forest": {
+    "experiment": "macroext_twostep_random_forest_supervisor_constrained_final_prema_v1",
+    "feature_count": 17,
+    "folds_analyzed": 2,
+    "output": "random_forest_importance_aggregated.csv"
+  },
+  "torch": {
+    "experiment": "macroext_onestep_torch_supervisor_ra500_final_prema_v1",
+    "feature_count": 17,
+    "folds_analyzed": 2,
+    "permutation_repeats": 1,
+    "output": "torch_permutation_importance_aggregated.csv"
+  },
+  "limit_folds": 2,
+  "torch_permutation_repeats": 1
+}

@@ -1,0 +1,4 @@
+strategy,annual_return_abs_diff,sharpe_abs_diff,avg_turnover_abs_diff
+Elastic Net,8.673617379884035e-17,2.7755575615628914e-17,0.0
+Random Forest,0.0,5.551115123125783e-17,0.0
+Torch (gamma=5.0),8.326672684688674e-17,0.0,0.0

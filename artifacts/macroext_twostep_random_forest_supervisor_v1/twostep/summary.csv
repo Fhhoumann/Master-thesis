@@ -1,0 +1,2 @@
+cost_convention,cost_bps,avg_turnover,n_periods,periods_per_year,mean_period_return,std_period_return,annual_return,annual_volatility,sharpe,max_drawdown,cumulative_return,experiment,pipeline,model_type
+one_way,0.0,0.6741061224489796,300.0,12.0,0.009338205357970272,0.05708756177003143,0.09623710405643582,0.1977571149318422,0.4758304538184094,-0.48782580626852556,8.945175146488552,macroext_twostep_random_forest_supervisor_v1,twostep,random_forest

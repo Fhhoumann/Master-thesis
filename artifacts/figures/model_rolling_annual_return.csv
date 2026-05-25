@@ -1,0 +1,1201 @@
+date,model,rolling_12m_annual_return
+1999-12-31,Elastic Net (Step 2 constrained),
+2000-01-31,Elastic Net (Step 2 constrained),
+2000-02-29,Elastic Net (Step 2 constrained),
+2000-03-31,Elastic Net (Step 2 constrained),
+2000-04-28,Elastic Net (Step 2 constrained),
+2000-05-31,Elastic Net (Step 2 constrained),
+2000-06-30,Elastic Net (Step 2 constrained),
+2000-07-31,Elastic Net (Step 2 constrained),
+2000-08-31,Elastic Net (Step 2 constrained),
+2000-09-29,Elastic Net (Step 2 constrained),
+2000-10-31,Elastic Net (Step 2 constrained),
+2000-11-30,Elastic Net (Step 2 constrained),-0.2616822960366959
+2000-12-29,Elastic Net (Step 2 constrained),-0.32844997482960614
+2001-01-31,Elastic Net (Step 2 constrained),-0.02628182121268674
+2001-02-28,Elastic Net (Step 2 constrained),-0.3210387263039908
+2001-03-30,Elastic Net (Step 2 constrained),-0.24976867482656417
+2001-04-30,Elastic Net (Step 2 constrained),-0.006362779644861982
+2001-05-31,Elastic Net (Step 2 constrained),0.05425750483082914
+2001-06-29,Elastic Net (Step 2 constrained),0.02896405658300316
+2001-07-31,Elastic Net (Step 2 constrained),0.19308011581229145
+2001-08-31,Elastic Net (Step 2 constrained),-0.0789355004513198
+2001-09-28,Elastic Net (Step 2 constrained),-0.23200361113809653
+2001-10-31,Elastic Net (Step 2 constrained),-0.19396996634096209
+2001-11-30,Elastic Net (Step 2 constrained),-0.002472055882313029
+2001-12-31,Elastic Net (Step 2 constrained),-0.02966838087711865
+2002-01-31,Elastic Net (Step 2 constrained),-0.2881969938814787
+2002-02-28,Elastic Net (Step 2 constrained),-0.31271501159039217
+2002-03-28,Elastic Net (Step 2 constrained),-0.1337788892259768
+2002-04-30,Elastic Net (Step 2 constrained),-0.38456174687654643
+2002-05-31,Elastic Net (Step 2 constrained),-0.4397378720004662
+2002-06-28,Elastic Net (Step 2 constrained),-0.5709595948081181
+2002-07-31,Elastic Net (Step 2 constrained),-0.5643945263295809
+2002-08-30,Elastic Net (Step 2 constrained),-0.47897857569791336
+2002-09-30,Elastic Net (Step 2 constrained),-0.38150091678136855
+2002-10-31,Elastic Net (Step 2 constrained),-0.358535443420413
+2002-11-29,Elastic Net (Step 2 constrained),-0.27074503431487174
+2002-12-31,Elastic Net (Step 2 constrained),-0.3051318453592411
+2003-01-31,Elastic Net (Step 2 constrained),-0.2746509140394586
+2003-02-28,Elastic Net (Step 2 constrained),-0.1749179736952967
+2003-03-31,Elastic Net (Step 2 constrained),-0.2787161002386974
+2003-04-30,Elastic Net (Step 2 constrained),0.02801078047059513
+2003-05-30,Elastic Net (Step 2 constrained),0.1810558673364362
+2003-06-30,Elastic Net (Step 2 constrained),0.5516127677687328
+2003-07-31,Elastic Net (Step 2 constrained),0.6295262368953025
+2003-08-29,Elastic Net (Step 2 constrained),0.5261044683043163
+2003-09-30,Elastic Net (Step 2 constrained),0.8478506043988576
+2003-10-31,Elastic Net (Step 2 constrained),0.8250915159118315
+2003-11-28,Elastic Net (Step 2 constrained),0.6155788675730165
+2003-12-31,Elastic Net (Step 2 constrained),0.7265101300537544
+2004-01-30,Elastic Net (Step 2 constrained),0.785213601444003
+2004-02-27,Elastic Net (Step 2 constrained),0.9215596718057477
+2004-03-31,Elastic Net (Step 2 constrained),0.7846847537618851
+2004-04-30,Elastic Net (Step 2 constrained),0.42053385596860626
+2004-05-28,Elastic Net (Step 2 constrained),0.30165630200994586
+2004-06-30,Elastic Net (Step 2 constrained),0.2410327369883034
+2004-07-30,Elastic Net (Step 2 constrained),0.11715389456829262
+2004-08-31,Elastic Net (Step 2 constrained),0.07826664221047364
+2004-09-30,Elastic Net (Step 2 constrained),0.08122048635372248
+2004-10-29,Elastic Net (Step 2 constrained),0.06653324676435779
+2004-11-30,Elastic Net (Step 2 constrained),0.06352178900232563
+2004-12-31,Elastic Net (Step 2 constrained),0.11798464166758915
+2005-01-31,Elastic Net (Step 2 constrained),-0.012055088461743524
+2005-02-28,Elastic Net (Step 2 constrained),-0.03363884881100199
+2005-03-31,Elastic Net (Step 2 constrained),-0.02652387324198424
+2005-04-29,Elastic Net (Step 2 constrained),0.020621327593186578
+2005-05-31,Elastic Net (Step 2 constrained),0.010041669932089992
+2005-06-30,Elastic Net (Step 2 constrained),0.03614500823922073
+2005-07-29,Elastic Net (Step 2 constrained),0.1827454428289581
+2005-08-31,Elastic Net (Step 2 constrained),0.1636945314548881
+2005-09-30,Elastic Net (Step 2 constrained),0.1020924617149912
+2005-10-31,Elastic Net (Step 2 constrained),0.027293238518791174
+2005-11-30,Elastic Net (Step 2 constrained),0.024271847069477603
+2005-12-30,Elastic Net (Step 2 constrained),-0.053694533498059194
+2006-01-31,Elastic Net (Step 2 constrained),0.0527938767478664
+2006-02-28,Elastic Net (Step 2 constrained),0.0552075847396416
+2006-03-31,Elastic Net (Step 2 constrained),0.1479650757140203
+2006-04-28,Elastic Net (Step 2 constrained),0.20644406982491326
+2006-05-31,Elastic Net (Step 2 constrained),0.14039837378855569
+2006-06-30,Elastic Net (Step 2 constrained),0.11273775986917678
+2006-07-31,Elastic Net (Step 2 constrained),0.003998643193677376
+2006-08-31,Elastic Net (Step 2 constrained),0.06453237578070192
+2006-09-29,Elastic Net (Step 2 constrained),0.1144022483042837
+2006-10-31,Elastic Net (Step 2 constrained),0.17564244464860956
+2006-11-30,Elastic Net (Step 2 constrained),0.15676103781753747
+2006-12-29,Elastic Net (Step 2 constrained),0.14492273467509253
+2007-01-31,Elastic Net (Step 2 constrained),0.1437447040690365
+2007-02-28,Elastic Net (Step 2 constrained),0.13823670430069623
+2007-03-30,Elastic Net (Step 2 constrained),0.09361795790263261
+2007-04-30,Elastic Net (Step 2 constrained),0.10039101902443837
+2007-05-31,Elastic Net (Step 2 constrained),0.17378711749097353
+2007-06-29,Elastic Net (Step 2 constrained),0.1867842646672404
+2007-07-31,Elastic Net (Step 2 constrained),0.14982703689395982
+2007-08-31,Elastic Net (Step 2 constrained),0.07389316315536276
+2007-09-28,Elastic Net (Step 2 constrained),0.041847398899625965
+2007-10-31,Elastic Net (Step 2 constrained),-0.019073597812723442
+2007-11-30,Elastic Net (Step 2 constrained),-0.15953157053425004
+2007-12-31,Elastic Net (Step 2 constrained),-0.21676432862256023
+2008-01-31,Elastic Net (Step 2 constrained),-0.1793036782938291
+2008-02-29,Elastic Net (Step 2 constrained),-0.2368336743608206
+2008-03-31,Elastic Net (Step 2 constrained),-0.28470508784116877
+2008-04-30,Elastic Net (Step 2 constrained),-0.25834116635621696
+2008-05-30,Elastic Net (Step 2 constrained),-0.24472239260980122
+2008-06-30,Elastic Net (Step 2 constrained),-0.3353780246608751
+2008-07-31,Elastic Net (Step 2 constrained),-0.3036568614282228
+2008-08-29,Elastic Net (Step 2 constrained),-0.2766268951852353
+2008-09-30,Elastic Net (Step 2 constrained),-0.45618515945919524
+2008-10-31,Elastic Net (Step 2 constrained),-0.5345625565079082
+2008-11-28,Elastic Net (Step 2 constrained),-0.4980736649883023
+2008-12-31,Elastic Net (Step 2 constrained),-0.47329751998823155
+2009-01-30,Elastic Net (Step 2 constrained),-0.552462319476801
+2009-02-27,Elastic Net (Step 2 constrained),-0.5962161293854423
+2009-03-31,Elastic Net (Step 2 constrained),-0.521982702004237
+2009-04-30,Elastic Net (Step 2 constrained),-0.46747167914409515
+2009-05-29,Elastic Net (Step 2 constrained),-0.3749840828235508
+2009-06-30,Elastic Net (Step 2 constrained),-0.2935797666697417
+2009-07-31,Elastic Net (Step 2 constrained),-0.2375402431763517
+2009-08-31,Elastic Net (Step 2 constrained),-0.15155140524312471
+2009-09-30,Elastic Net (Step 2 constrained),0.24714225145753943
+2009-10-30,Elastic Net (Step 2 constrained),0.33432408729090124
+2009-11-30,Elastic Net (Step 2 constrained),0.398693821827967
+2009-12-31,Elastic Net (Step 2 constrained),0.48437547265021874
+2010-01-29,Elastic Net (Step 2 constrained),0.6375184035145314
+2010-02-26,Elastic Net (Step 2 constrained),1.009807556488108
+2010-03-31,Elastic Net (Step 2 constrained),0.9654405260495342
+2010-04-30,Elastic Net (Step 2 constrained),0.7227032172109418
+2010-05-28,Elastic Net (Step 2 constrained),0.2878205314458002
+2010-06-30,Elastic Net (Step 2 constrained),0.21330061873795536
+2010-07-30,Elastic Net (Step 2 constrained),0.24641975479389866
+2010-08-31,Elastic Net (Step 2 constrained),0.017615355593953996
+2010-09-30,Elastic Net (Step 2 constrained),0.014581745306682325
+2010-10-29,Elastic Net (Step 2 constrained),0.1637573180964742
+2010-11-30,Elastic Net (Step 2 constrained),0.18979293141197995
+2010-12-31,Elastic Net (Step 2 constrained),0.19093712592562073
+2011-01-31,Elastic Net (Step 2 constrained),0.2555451496396788
+2011-02-28,Elastic Net (Step 2 constrained),0.26364963525576957
+2011-03-31,Elastic Net (Step 2 constrained),0.1735150881761529
+2011-04-29,Elastic Net (Step 2 constrained),0.14777127582199823
+2011-05-31,Elastic Net (Step 2 constrained),0.2336280078362114
+2011-06-30,Elastic Net (Step 2 constrained),0.2553969466455559
+2011-07-29,Elastic Net (Step 2 constrained),0.12327848358745008
+2011-08-31,Elastic Net (Step 2 constrained),0.07385576346738665
+2011-09-30,Elastic Net (Step 2 constrained),-0.1440527790192465
+2011-10-31,Elastic Net (Step 2 constrained),0.020025806017592185
+2011-11-30,Elastic Net (Step 2 constrained),-0.06130810098605133
+2011-12-30,Elastic Net (Step 2 constrained),-0.1400047990701906
+2012-01-31,Elastic Net (Step 2 constrained),-0.05853710510863419
+2012-02-29,Elastic Net (Step 2 constrained),-0.010390646653215874
+2012-03-30,Elastic Net (Step 2 constrained),-0.05957833185002892
+2012-04-30,Elastic Net (Step 2 constrained),-0.11169328729610772
+2012-05-31,Elastic Net (Step 2 constrained),-0.24829059941841558
+2012-06-29,Elastic Net (Step 2 constrained),-0.18657494237140726
+2012-07-31,Elastic Net (Step 2 constrained),-0.22321804221507957
+2012-08-31,Elastic Net (Step 2 constrained),-0.06409605825492548
+2012-09-28,Elastic Net (Step 2 constrained),0.11593495020221445
+2012-10-31,Elastic Net (Step 2 constrained),-0.11300846999514935
+2012-11-30,Elastic Net (Step 2 constrained),-0.008255773845053382
+2012-12-31,Elastic Net (Step 2 constrained),0.11439313933823514
+2013-01-31,Elastic Net (Step 2 constrained),0.11676760934383457
+2013-02-28,Elastic Net (Step 2 constrained),0.00785535253063685
+2013-03-28,Elastic Net (Step 2 constrained),0.11669003701642855
+2013-04-30,Elastic Net (Step 2 constrained),0.17888916248829956
+2013-05-31,Elastic Net (Step 2 constrained),0.4292879688263824
+2013-06-28,Elastic Net (Step 2 constrained),0.34728807470504286
+2013-07-31,Elastic Net (Step 2 constrained),0.5623470297451572
+2013-08-30,Elastic Net (Step 2 constrained),0.44487250033286796
+2013-09-30,Elastic Net (Step 2 constrained),0.45221778045526384
+2013-10-31,Elastic Net (Step 2 constrained),0.5444520088706206
+2013-11-29,Elastic Net (Step 2 constrained),0.507183668063768
+2013-12-31,Elastic Net (Step 2 constrained),0.47410769641713735
+2014-01-31,Elastic Net (Step 2 constrained),0.235782723940263
+2014-02-28,Elastic Net (Step 2 constrained),0.23925875644120342
+2014-03-31,Elastic Net (Step 2 constrained),0.11734160791754222
+2014-04-30,Elastic Net (Step 2 constrained),0.04901794026416839
+2014-05-30,Elastic Net (Step 2 constrained),0.00821947071890805
+2014-06-30,Elastic Net (Step 2 constrained),0.10159106033381815
+2014-07-31,Elastic Net (Step 2 constrained),0.041146563267721925
+2014-08-29,Elastic Net (Step 2 constrained),0.12105434672644111
+2014-09-30,Elastic Net (Step 2 constrained),0.05232682862947269
+2014-10-31,Elastic Net (Step 2 constrained),0.08895420135876142
+2014-11-28,Elastic Net (Step 2 constrained),0.08897485575696762
+2014-12-31,Elastic Net (Step 2 constrained),0.08929004765115667
+2015-01-30,Elastic Net (Step 2 constrained),0.09827684026006178
+2015-02-27,Elastic Net (Step 2 constrained),0.2014132345382056
+2015-03-31,Elastic Net (Step 2 constrained),0.23966808145557983
+2015-04-30,Elastic Net (Step 2 constrained),0.40027952992319005
+2015-05-29,Elastic Net (Step 2 constrained),0.35031964360097656
+2015-06-30,Elastic Net (Step 2 constrained),0.2513305529490608
+2015-07-31,Elastic Net (Step 2 constrained),0.08796390078644567
+2015-08-31,Elastic Net (Step 2 constrained),-0.06181331229618825
+2015-09-30,Elastic Net (Step 2 constrained),-0.153452412893737
+2015-10-30,Elastic Net (Step 2 constrained),-0.12595650087695798
+2015-11-30,Elastic Net (Step 2 constrained),-0.11367069257368523
+2015-12-31,Elastic Net (Step 2 constrained),-0.19488523207262287
+2016-01-29,Elastic Net (Step 2 constrained),-0.31176284077853056
+2016-02-29,Elastic Net (Step 2 constrained),-0.3252322379508146
+2016-03-31,Elastic Net (Step 2 constrained),-0.22076869215367545
+2016-04-29,Elastic Net (Step 2 constrained),-0.2268291799109271
+2016-05-31,Elastic Net (Step 2 constrained),-0.17724105755793917
+2016-06-30,Elastic Net (Step 2 constrained),-0.13533281622373716
+2016-07-29,Elastic Net (Step 2 constrained),0.039656120639949055
+2016-08-31,Elastic Net (Step 2 constrained),0.18264899892496445
+2016-09-30,Elastic Net (Step 2 constrained),0.3430197216717681
+2016-10-31,Elastic Net (Step 2 constrained),0.16725727701813242
+2016-11-30,Elastic Net (Step 2 constrained),0.15475137846216103
+2016-12-30,Elastic Net (Step 2 constrained),0.2175657152183743
+2017-01-31,Elastic Net (Step 2 constrained),0.44373084518538564
+2017-02-28,Elastic Net (Step 2 constrained),0.3630299224031326
+2017-03-31,Elastic Net (Step 2 constrained),0.19766417299000083
+2017-04-28,Elastic Net (Step 2 constrained),0.12780426447013937
+2017-05-31,Elastic Net (Step 2 constrained),0.06993650883403868
+2017-06-30,Elastic Net (Step 2 constrained),0.10040920472932924
+2017-07-31,Elastic Net (Step 2 constrained),0.021628576236250696
+2017-08-31,Elastic Net (Step 2 constrained),-0.06154796462854839
+2017-09-29,Elastic Net (Step 2 constrained),-0.04506011566486823
+2017-10-31,Elastic Net (Step 2 constrained),-0.02305853417044179
+2017-11-30,Elastic Net (Step 2 constrained),0.057440357320097446
+2017-12-29,Elastic Net (Step 2 constrained),0.07836168347702266
+2018-01-31,Elastic Net (Step 2 constrained),0.12563333334531301
+2018-02-28,Elastic Net (Step 2 constrained),0.07392545028768649
+2018-03-29,Elastic Net (Step 2 constrained),0.09218945068686102
+2018-04-30,Elastic Net (Step 2 constrained),0.11646721122262904
+2018-05-31,Elastic Net (Step 2 constrained),0.19211522469717046
+2018-06-29,Elastic Net (Step 2 constrained),0.14780787951026642
+2018-07-31,Elastic Net (Step 2 constrained),0.16543442545941645
+2018-08-31,Elastic Net (Step 2 constrained),0.23925670518097064
+2018-09-28,Elastic Net (Step 2 constrained),0.20470773700353728
+2018-10-31,Elastic Net (Step 2 constrained),0.11604862577774133
+2018-11-30,Elastic Net (Step 2 constrained),0.06270057465650236
+2018-12-31,Elastic Net (Step 2 constrained),-0.09126240700459232
+2019-01-31,Elastic Net (Step 2 constrained),0.01070914993378791
+2019-02-28,Elastic Net (Step 2 constrained),0.09210376198683723
+2019-03-29,Elastic Net (Step 2 constrained),0.07577798025272142
+2019-04-30,Elastic Net (Step 2 constrained),0.10718355779749555
+2019-05-31,Elastic Net (Step 2 constrained),-0.017044079438094828
+2019-06-28,Elastic Net (Step 2 constrained),0.1386791686801636
+2019-07-31,Elastic Net (Step 2 constrained),0.14206359502539723
+2019-08-30,Elastic Net (Step 2 constrained),0.0027242281786905576
+2019-09-30,Elastic Net (Step 2 constrained),0.0345218082168286
+2019-10-31,Elastic Net (Step 2 constrained),0.2038441273081344
+2019-11-29,Elastic Net (Step 2 constrained),0.23786193915879128
+2019-12-31,Elastic Net (Step 2 constrained),0.48229213973803686
+2020-01-31,Elastic Net (Step 2 constrained),0.2787374779650613
+2020-02-28,Elastic Net (Step 2 constrained),0.0714533272999569
+2020-03-31,Elastic Net (Step 2 constrained),-0.2815092271863455
+2020-04-30,Elastic Net (Step 2 constrained),-0.1974880295586693
+2020-05-29,Elastic Net (Step 2 constrained),-0.10016327672794523
+2020-06-30,Elastic Net (Step 2 constrained),-0.12810669421407472
+2020-07-31,Elastic Net (Step 2 constrained),-0.16118679855835738
+2020-08-31,Elastic Net (Step 2 constrained),-0.0025469679778519216
+2020-09-30,Elastic Net (Step 2 constrained),-0.03511295580012497
+2020-10-30,Elastic Net (Step 2 constrained),-0.1415240398388392
+2020-11-30,Elastic Net (Step 2 constrained),-0.015814701627096528
+2020-12-31,Elastic Net (Step 2 constrained),-0.012393454151422678
+2021-01-29,Elastic Net (Step 2 constrained),0.12401746047174966
+2021-02-26,Elastic Net (Step 2 constrained),0.21382537819908798
+2021-03-31,Elastic Net (Step 2 constrained),0.7698754985337426
+2021-04-30,Elastic Net (Step 2 constrained),0.5211194309516947
+2021-05-28,Elastic Net (Step 2 constrained),0.5238197875045929
+2021-06-30,Elastic Net (Step 2 constrained),0.42374618072505066
+2021-07-30,Elastic Net (Step 2 constrained),0.37566431543225254
+2021-08-31,Elastic Net (Step 2 constrained),0.42481700393207955
+2021-09-30,Elastic Net (Step 2 constrained),0.369289288558474
+2021-10-29,Elastic Net (Step 2 constrained),0.5268086800133984
+2021-11-30,Elastic Net (Step 2 constrained),0.28106648340078255
+2021-12-31,Elastic Net (Step 2 constrained),0.24255403027688893
+2022-01-31,Elastic Net (Step 2 constrained),-0.07799081618342618
+2022-02-28,Elastic Net (Step 2 constrained),0.046291108336353304
+2022-03-31,Elastic Net (Step 2 constrained),0.1121451114764247
+2022-04-29,Elastic Net (Step 2 constrained),-0.023385878518549008
+2022-05-31,Elastic Net (Step 2 constrained),0.0027394176759589772
+2022-06-30,Elastic Net (Step 2 constrained),-0.19866197568676092
+2022-07-29,Elastic Net (Step 2 constrained),0.017756755835548255
+2022-08-31,Elastic Net (Step 2 constrained),-0.08670593471409327
+2022-09-30,Elastic Net (Step 2 constrained),-0.1367041211199106
+2022-10-31,Elastic Net (Step 2 constrained),-0.16378716178372144
+2022-11-30,Elastic Net (Step 2 constrained),-0.15600855804392388
+2022-12-30,Elastic Net (Step 2 constrained),-0.2795649524007986
+2023-01-31,Elastic Net (Step 2 constrained),-0.058204954908253725
+2023-02-28,Elastic Net (Step 2 constrained),-0.13648474312257053
+2023-03-31,Elastic Net (Step 2 constrained),-0.19083145523867162
+2023-04-28,Elastic Net (Step 2 constrained),-0.13450588967434696
+2023-05-31,Elastic Net (Step 2 constrained),-0.1761063671447961
+2023-06-30,Elastic Net (Step 2 constrained),0.042157334051775575
+2023-07-31,Elastic Net (Step 2 constrained),-0.09373681947004187
+2023-08-31,Elastic Net (Step 2 constrained),-0.10702074028198771
+2023-09-29,Elastic Net (Step 2 constrained),-0.12409019041639402
+2023-10-31,Elastic Net (Step 2 constrained),-0.21992810804713947
+2023-11-30,Elastic Net (Step 2 constrained),-0.1521523497293359
+2023-12-29,Elastic Net (Step 2 constrained),0.12795816359196444
+2024-01-31,Elastic Net (Step 2 constrained),-0.04312138113756092
+2024-02-29,Elastic Net (Step 2 constrained),0.006238339196839249
+2024-03-28,Elastic Net (Step 2 constrained),0.08657155570744224
+2024-04-30,Elastic Net (Step 2 constrained),0.029932617555826102
+2024-05-31,Elastic Net (Step 2 constrained),0.08691952330420549
+2024-06-28,Elastic Net (Step 2 constrained),0.056797028984333586
+2024-07-31,Elastic Net (Step 2 constrained),0.08714845579470953
+2024-08-30,Elastic Net (Step 2 constrained),0.12328666765127383
+2024-09-30,Elastic Net (Step 2 constrained),0.3481570072681188
+2024-10-31,Elastic Net (Step 2 constrained),0.4361312213852413
+2024-11-29,Elastic Net (Step 2 constrained),0.3046674001371348
+1999-12-31,Random Forest (Step 2 constrained),
+2000-01-31,Random Forest (Step 2 constrained),
+2000-02-29,Random Forest (Step 2 constrained),
+2000-03-31,Random Forest (Step 2 constrained),
+2000-04-28,Random Forest (Step 2 constrained),
+2000-05-31,Random Forest (Step 2 constrained),
+2000-06-30,Random Forest (Step 2 constrained),
+2000-07-31,Random Forest (Step 2 constrained),
+2000-08-31,Random Forest (Step 2 constrained),
+2000-09-29,Random Forest (Step 2 constrained),
+2000-10-31,Random Forest (Step 2 constrained),
+2000-11-30,Random Forest (Step 2 constrained),-0.2721049170249994
+2000-12-29,Random Forest (Step 2 constrained),-0.22208424708144758
+2001-01-31,Random Forest (Step 2 constrained),-0.031977603327555615
+2001-02-28,Random Forest (Step 2 constrained),-0.29007130511677326
+2001-03-30,Random Forest (Step 2 constrained),-0.23641883042796163
+2001-04-30,Random Forest (Step 2 constrained),-0.08054270123467433
+2001-05-31,Random Forest (Step 2 constrained),-0.06442466266657199
+2001-06-29,Random Forest (Step 2 constrained),-0.1102271377958276
+2001-07-31,Random Forest (Step 2 constrained),-0.09448261900896993
+2001-08-31,Random Forest (Step 2 constrained),-0.17964042194944696
+2001-09-28,Random Forest (Step 2 constrained),-0.34263147277214456
+2001-10-31,Random Forest (Step 2 constrained),-0.34794619027098805
+2001-11-30,Random Forest (Step 2 constrained),0.006346986598122939
+2001-12-31,Random Forest (Step 2 constrained),-0.02914920187341563
+2002-01-31,Random Forest (Step 2 constrained),-0.20315158032744918
+2002-02-28,Random Forest (Step 2 constrained),-0.06160574582069345
+2002-03-28,Random Forest (Step 2 constrained),-0.014487605541093185
+2002-04-30,Random Forest (Step 2 constrained),-0.21908850584261974
+2002-05-31,Random Forest (Step 2 constrained),-0.20983715668271596
+2002-06-28,Random Forest (Step 2 constrained),-0.21340703605718736
+2002-07-31,Random Forest (Step 2 constrained),-0.24877800199010358
+2002-08-30,Random Forest (Step 2 constrained),-0.22875915605360575
+2002-09-30,Random Forest (Step 2 constrained),-0.1288293478993625
+2002-10-31,Random Forest (Step 2 constrained),0.008470986962549887
+2002-11-29,Random Forest (Step 2 constrained),-0.12611673550655356
+2002-12-31,Random Forest (Step 2 constrained),-0.23061903040165965
+2003-01-31,Random Forest (Step 2 constrained),-0.2519758509610637
+2003-02-28,Random Forest (Step 2 constrained),-0.2500653245087219
+2003-03-31,Random Forest (Step 2 constrained),-0.2502819069960972
+2003-04-30,Random Forest (Step 2 constrained),-0.13956638818030997
+2003-05-30,Random Forest (Step 2 constrained),-0.08316241377550782
+2003-06-30,Random Forest (Step 2 constrained),-0.0368262469477002
+2003-07-31,Random Forest (Step 2 constrained),0.09291836923989516
+2003-08-29,Random Forest (Step 2 constrained),0.13256782338377016
+2003-09-30,Random Forest (Step 2 constrained),0.34604661240474077
+2003-10-31,Random Forest (Step 2 constrained),0.255110595701326
+2003-11-28,Random Forest (Step 2 constrained),0.19110625434628603
+2003-12-31,Random Forest (Step 2 constrained),0.3777542266180969
+2004-01-30,Random Forest (Step 2 constrained),0.4271073561104157
+2004-02-27,Random Forest (Step 2 constrained),0.5226666471487236
+2004-03-31,Random Forest (Step 2 constrained),0.454461555259259
+2004-04-30,Random Forest (Step 2 constrained),0.3030848540676796
+2004-05-28,Random Forest (Step 2 constrained),0.24897448086970786
+2004-06-30,Random Forest (Step 2 constrained),0.2688650488772415
+2004-07-30,Random Forest (Step 2 constrained),0.08303447053369162
+2004-08-31,Random Forest (Step 2 constrained),0.06256182228076601
+2004-09-30,Random Forest (Step 2 constrained),0.10491162475763294
+2004-10-29,Random Forest (Step 2 constrained),0.09059541462723941
+2004-11-30,Random Forest (Step 2 constrained),0.0830963959238411
+2004-12-31,Random Forest (Step 2 constrained),0.11801239620357418
+2005-01-31,Random Forest (Step 2 constrained),-0.005375978174208318
+2005-02-28,Random Forest (Step 2 constrained),-0.020133115764410237
+2005-03-31,Random Forest (Step 2 constrained),-0.02468921470812413
+2005-04-29,Random Forest (Step 2 constrained),-0.02331805083294114
+2005-05-31,Random Forest (Step 2 constrained),-0.007574502405157002
+2005-06-30,Random Forest (Step 2 constrained),-0.018081514259916664
+2005-07-29,Random Forest (Step 2 constrained),0.12516856989614888
+2005-08-31,Random Forest (Step 2 constrained),0.06679914434715606
+2005-09-30,Random Forest (Step 2 constrained),0.04595416604275093
+2005-10-31,Random Forest (Step 2 constrained),-0.024468992699101744
+2005-11-30,Random Forest (Step 2 constrained),-0.016565652074078896
+2005-12-30,Random Forest (Step 2 constrained),-0.044362724243186435
+2006-01-31,Random Forest (Step 2 constrained),0.11843602065668435
+2006-02-28,Random Forest (Step 2 constrained),0.09479184382943329
+2006-03-31,Random Forest (Step 2 constrained),0.16279755320062028
+2006-04-28,Random Forest (Step 2 constrained),0.23681905720401764
+2006-05-31,Random Forest (Step 2 constrained),0.1444333433867364
+2006-06-30,Random Forest (Step 2 constrained),0.12178090600114433
+2006-07-31,Random Forest (Step 2 constrained),0.06124490773050528
+2006-08-31,Random Forest (Step 2 constrained),0.1336951583220507
+2006-09-29,Random Forest (Step 2 constrained),0.1199027120840157
+2006-10-31,Random Forest (Step 2 constrained),0.19253777934404592
+2006-11-30,Random Forest (Step 2 constrained),0.16335652557979286
+2006-12-29,Random Forest (Step 2 constrained),0.12852631698264805
+2007-01-31,Random Forest (Step 2 constrained),0.12404665025180273
+2007-02-28,Random Forest (Step 2 constrained),0.13727790856649458
+2007-03-30,Random Forest (Step 2 constrained),0.11607043265261097
+2007-04-30,Random Forest (Step 2 constrained),0.1379397745727613
+2007-05-31,Random Forest (Step 2 constrained),0.21874753938097946
+2007-06-29,Random Forest (Step 2 constrained),0.1926878822006206
+2007-07-31,Random Forest (Step 2 constrained),0.18196197881103515
+2007-08-31,Random Forest (Step 2 constrained),0.15456140617687275
+2007-09-28,Random Forest (Step 2 constrained),0.22392313235654937
+2007-10-31,Random Forest (Step 2 constrained),0.22430229142174318
+2007-11-30,Random Forest (Step 2 constrained),0.10761825336005804
+2007-12-31,Random Forest (Step 2 constrained),0.10497379085840897
+2008-01-31,Random Forest (Step 2 constrained),0.1052863556739938
+2008-02-29,Random Forest (Step 2 constrained),0.12627147830258068
+2008-03-31,Random Forest (Step 2 constrained),0.09699512342438577
+2008-04-30,Random Forest (Step 2 constrained),0.12691369880783387
+2008-05-30,Random Forest (Step 2 constrained),0.12764433939467978
+2008-06-30,Random Forest (Step 2 constrained),0.1797046455537188
+2008-07-31,Random Forest (Step 2 constrained),0.21728766876146333
+2008-08-29,Random Forest (Step 2 constrained),0.14794649412622096
+2008-09-30,Random Forest (Step 2 constrained),-0.005974624870554335
+2008-10-31,Random Forest (Step 2 constrained),-0.16613988492066234
+2008-11-28,Random Forest (Step 2 constrained),-0.13850611917996125
+2008-12-31,Random Forest (Step 2 constrained),-0.17187232582259204
+2009-01-30,Random Forest (Step 2 constrained),-0.2902564787640938
+2009-02-27,Random Forest (Step 2 constrained),-0.37517401785727467
+2009-03-31,Random Forest (Step 2 constrained),-0.26742765210177644
+2009-04-30,Random Forest (Step 2 constrained),-0.1975331667640441
+2009-05-29,Random Forest (Step 2 constrained),-0.048318114137178236
+2009-06-30,Random Forest (Step 2 constrained),0.020441801964946604
+2009-07-31,Random Forest (Step 2 constrained),0.09719861003837127
+2009-08-31,Random Forest (Step 2 constrained),0.2167813375927865
+2009-09-30,Random Forest (Step 2 constrained),0.3396024207087087
+2009-10-30,Random Forest (Step 2 constrained),0.44728354925788194
+2009-11-30,Random Forest (Step 2 constrained),0.5873337335288229
+2009-12-31,Random Forest (Step 2 constrained),0.7265802864136048
+2010-01-29,Random Forest (Step 2 constrained),0.8650490727776146
+2010-02-26,Random Forest (Step 2 constrained),1.171275483758599
+2010-03-31,Random Forest (Step 2 constrained),0.9606024137082103
+2010-04-30,Random Forest (Step 2 constrained),0.6995866656791481
+2010-05-28,Random Forest (Step 2 constrained),0.2609821971456796
+2010-06-30,Random Forest (Step 2 constrained),0.08219113526315125
+2010-07-30,Random Forest (Step 2 constrained),0.08269512197431372
+2010-08-31,Random Forest (Step 2 constrained),0.02628635820163705
+2010-09-30,Random Forest (Step 2 constrained),0.12800174172311207
+2010-10-29,Random Forest (Step 2 constrained),0.24065353753977647
+2010-11-30,Random Forest (Step 2 constrained),0.24572054244857156
+2010-12-31,Random Forest (Step 2 constrained),0.2828088633464503
+2011-01-31,Random Forest (Step 2 constrained),0.3445294251267348
+2011-02-28,Random Forest (Step 2 constrained),0.3473084920707157
+2011-03-31,Random Forest (Step 2 constrained),0.3000746436975512
+2011-04-29,Random Forest (Step 2 constrained),0.2782524913711433
+2011-05-31,Random Forest (Step 2 constrained),0.4271669640316371
+2011-06-30,Random Forest (Step 2 constrained),0.464691378587311
+2011-07-29,Random Forest (Step 2 constrained),0.3951423544274475
+2011-08-31,Random Forest (Step 2 constrained),0.32890744202385225
+2011-09-30,Random Forest (Step 2 constrained),0.17164440979179973
+2011-10-31,Random Forest (Step 2 constrained),0.20647368995643678
+2011-11-30,Random Forest (Step 2 constrained),0.09261214622182679
+2011-12-30,Random Forest (Step 2 constrained),-0.03798366596510416
+2012-01-31,Random Forest (Step 2 constrained),0.0453354064696776
+2012-02-29,Random Forest (Step 2 constrained),0.07235815668738521
+2012-03-30,Random Forest (Step 2 constrained),0.03932687668423829
+2012-04-30,Random Forest (Step 2 constrained),0.0017079316144803514
+2012-05-31,Random Forest (Step 2 constrained),-0.1459023357557414
+2012-06-29,Random Forest (Step 2 constrained),-0.08314693177452093
+2012-07-31,Random Forest (Step 2 constrained),-0.1516111652724127
+2012-08-31,Random Forest (Step 2 constrained),-0.052771761799629835
+2012-09-28,Random Forest (Step 2 constrained),-0.006953489435691629
+2012-10-31,Random Forest (Step 2 constrained),-0.07146442703360556
+2012-11-30,Random Forest (Step 2 constrained),-0.04554101764235552
+2012-12-31,Random Forest (Step 2 constrained),0.04284064972593282
+2013-01-31,Random Forest (Step 2 constrained),0.05540525913352856
+2013-02-28,Random Forest (Step 2 constrained),0.019403032634552453
+2013-03-28,Random Forest (Step 2 constrained),0.08118395370383391
+2013-04-30,Random Forest (Step 2 constrained),0.12535617366123875
+2013-05-31,Random Forest (Step 2 constrained),0.31983504243150795
+2013-06-28,Random Forest (Step 2 constrained),0.27096505329648624
+2013-07-31,Random Forest (Step 2 constrained),0.4001740141600232
+2013-08-30,Random Forest (Step 2 constrained),0.3020105016654575
+2013-09-30,Random Forest (Step 2 constrained),0.3429688411882852
+2013-10-31,Random Forest (Step 2 constrained),0.3864145942517878
+2013-11-29,Random Forest (Step 2 constrained),0.4564457579448973
+2013-12-31,Random Forest (Step 2 constrained),0.43017679380004203
+2014-01-31,Random Forest (Step 2 constrained),0.26794566220308735
+2014-02-28,Random Forest (Step 2 constrained),0.2961663869485487
+2014-03-31,Random Forest (Step 2 constrained),0.24537448993750743
+2014-04-30,Random Forest (Step 2 constrained),0.19569680172043058
+2014-05-30,Random Forest (Step 2 constrained),0.21432694626611393
+2014-06-30,Random Forest (Step 2 constrained),0.23292564645349056
+2014-07-31,Random Forest (Step 2 constrained),0.14340837766672876
+2014-08-29,Random Forest (Step 2 constrained),0.200390526549024
+2014-09-30,Random Forest (Step 2 constrained),0.09147302154253367
+2014-10-31,Random Forest (Step 2 constrained),0.11432820299215352
+2014-11-28,Random Forest (Step 2 constrained),0.1129007008042835
+2014-12-31,Random Forest (Step 2 constrained),0.12474873927456587
+2015-01-30,Random Forest (Step 2 constrained),0.14451922341656553
+2015-02-27,Random Forest (Step 2 constrained),0.13183238810433062
+2015-03-31,Random Forest (Step 2 constrained),0.13788729706047143
+2015-04-30,Random Forest (Step 2 constrained),0.18418222302364073
+2015-05-29,Random Forest (Step 2 constrained),0.08571167781655809
+2015-06-30,Random Forest (Step 2 constrained),0.052574789013765555
+2015-07-31,Random Forest (Step 2 constrained),0.12941976538120814
+2015-08-31,Random Forest (Step 2 constrained),0.011360023046225187
+2015-09-30,Random Forest (Step 2 constrained),0.039512636790764555
+2015-10-30,Random Forest (Step 2 constrained),0.04381958496970939
+2015-11-30,Random Forest (Step 2 constrained),0.004007966630778403
+2015-12-31,Random Forest (Step 2 constrained),-0.008358084440313274
+2016-01-29,Random Forest (Step 2 constrained),-0.05886260742018956
+2016-02-29,Random Forest (Step 2 constrained),-0.05659225278006952
+2016-03-31,Random Forest (Step 2 constrained),0.04665358564171407
+2016-04-29,Random Forest (Step 2 constrained),0.18881013901408905
+2016-05-31,Random Forest (Step 2 constrained),0.2367101513046539
+2016-06-30,Random Forest (Step 2 constrained),0.22944940390931867
+2016-07-29,Random Forest (Step 2 constrained),0.23229948968970326
+2016-08-31,Random Forest (Step 2 constrained),0.3237917448129244
+2016-09-30,Random Forest (Step 2 constrained),0.3548810370259492
+2016-10-31,Random Forest (Step 2 constrained),0.2559584780583788
+2016-11-30,Random Forest (Step 2 constrained),0.3920699499031495
+2016-12-30,Random Forest (Step 2 constrained),0.4010870184573081
+2017-01-31,Random Forest (Step 2 constrained),0.4790448833602614
+2017-02-28,Random Forest (Step 2 constrained),0.4342932239956403
+2017-03-31,Random Forest (Step 2 constrained),0.2774947428996515
+2017-04-28,Random Forest (Step 2 constrained),0.10727205773867787
+2017-05-31,Random Forest (Step 2 constrained),0.09217015382087324
+2017-06-30,Random Forest (Step 2 constrained),0.1390032151195204
+2017-07-31,Random Forest (Step 2 constrained),0.10172452952547717
+2017-08-31,Random Forest (Step 2 constrained),0.1129373519717769
+2017-09-29,Random Forest (Step 2 constrained),0.0931023032065077
+2017-10-31,Random Forest (Step 2 constrained),0.1575885563069619
+2017-11-30,Random Forest (Step 2 constrained),0.09417270683657075
+2017-12-29,Random Forest (Step 2 constrained),0.06114446900391246
+2018-01-31,Random Forest (Step 2 constrained),0.12112509700097762
+2018-02-28,Random Forest (Step 2 constrained),0.06746476710071536
+2018-03-29,Random Forest (Step 2 constrained),0.06885318634354332
+2018-04-30,Random Forest (Step 2 constrained),0.054883723661637296
+2018-05-31,Random Forest (Step 2 constrained),0.10955587593306682
+2018-06-29,Random Forest (Step 2 constrained),0.11291365185951552
+2018-07-31,Random Forest (Step 2 constrained),0.12771730934479142
+2018-08-31,Random Forest (Step 2 constrained),0.14697115272067873
+2018-09-28,Random Forest (Step 2 constrained),0.17654764852354132
+2018-10-31,Random Forest (Step 2 constrained),0.040619657007524124
+2018-11-30,Random Forest (Step 2 constrained),0.07833487910017944
+2018-12-31,Random Forest (Step 2 constrained),-0.03982220912408718
+2019-01-31,Random Forest (Step 2 constrained),0.011228594419030902
+2019-02-28,Random Forest (Step 2 constrained),0.09134751798053031
+2019-03-29,Random Forest (Step 2 constrained),0.12464999964264001
+2019-04-30,Random Forest (Step 2 constrained),0.23041113107318667
+2019-05-31,Random Forest (Step 2 constrained),0.12525344174777464
+2019-06-28,Random Forest (Step 2 constrained),0.15043810473357921
+2019-07-31,Random Forest (Step 2 constrained),0.134200973081134
+2019-08-30,Random Forest (Step 2 constrained),-0.01312800777725942
+2019-09-30,Random Forest (Step 2 constrained),0.00069533606399097
+2019-10-31,Random Forest (Step 2 constrained),0.0774713024328435
+2019-11-29,Random Forest (Step 2 constrained),0.02080017511140153
+2019-12-31,Random Forest (Step 2 constrained),0.21279884799139093
+2020-01-31,Random Forest (Step 2 constrained),0.1154686127044382
+2020-02-28,Random Forest (Step 2 constrained),-0.03545162741077945
+2020-03-31,Random Forest (Step 2 constrained),-0.2621229607961565
+2020-04-30,Random Forest (Step 2 constrained),-0.2646975805952174
+2020-05-29,Random Forest (Step 2 constrained),-0.2010668475002928
+2020-06-30,Random Forest (Step 2 constrained),-0.17900699517301755
+2020-07-31,Random Forest (Step 2 constrained),-0.1652511420468653
+2020-08-31,Random Forest (Step 2 constrained),-0.07291154901256991
+2020-09-30,Random Forest (Step 2 constrained),-0.1161783708357308
+2020-10-30,Random Forest (Step 2 constrained),-0.07934276238239313
+2020-11-30,Random Forest (Step 2 constrained),0.013521214981988994
+2020-12-31,Random Forest (Step 2 constrained),0.020649160152583335
+2021-01-29,Random Forest (Step 2 constrained),0.15337724082981552
+2021-02-26,Random Forest (Step 2 constrained),0.18257515111617528
+2021-03-31,Random Forest (Step 2 constrained),0.5923059342236383
+2021-04-30,Random Forest (Step 2 constrained),0.5191046717468457
+2021-05-28,Random Forest (Step 2 constrained),0.5364478330561369
+2021-06-30,Random Forest (Step 2 constrained),0.4675511716868488
+2021-07-30,Random Forest (Step 2 constrained),0.45676630484412284
+2021-08-31,Random Forest (Step 2 constrained),0.554658886239372
+2021-09-30,Random Forest (Step 2 constrained),0.5250143117029211
+2021-10-29,Random Forest (Step 2 constrained),0.5819077985124499
+2021-11-30,Random Forest (Step 2 constrained),0.3717284652994144
+2021-12-31,Random Forest (Step 2 constrained),0.40247929176685115
+2022-01-31,Random Forest (Step 2 constrained),0.06530278876223061
+2022-02-28,Random Forest (Step 2 constrained),0.18069485442603006
+2022-03-31,Random Forest (Step 2 constrained),0.22737276538736917
+2022-04-29,Random Forest (Step 2 constrained),0.08787387852870698
+2022-05-31,Random Forest (Step 2 constrained),0.06873341332279437
+2022-06-30,Random Forest (Step 2 constrained),-0.03309493192629154
+2022-07-29,Random Forest (Step 2 constrained),0.05520726075045235
+2022-08-31,Random Forest (Step 2 constrained),0.009919078196411135
+2022-09-30,Random Forest (Step 2 constrained),-0.027331037559916727
+2022-10-31,Random Forest (Step 2 constrained),-0.04356167279506318
+2022-11-30,Random Forest (Step 2 constrained),0.05158931480872919
+2022-12-30,Random Forest (Step 2 constrained),-0.06041959032962474
+2023-01-31,Random Forest (Step 2 constrained),0.1125542638628112
+2023-02-28,Random Forest (Step 2 constrained),0.03948830809565296
+2023-03-31,Random Forest (Step 2 constrained),-0.05099362106715277
+2023-04-28,Random Forest (Step 2 constrained),0.04462107962207296
+2023-05-31,Random Forest (Step 2 constrained),-0.036639588594593264
+2023-06-30,Random Forest (Step 2 constrained),0.11124463286710506
+2023-07-31,Random Forest (Step 2 constrained),0.02292787017057396
+2023-08-31,Random Forest (Step 2 constrained),-0.004943655912915124
+2023-09-29,Random Forest (Step 2 constrained),-0.02328251695056449
+2023-10-31,Random Forest (Step 2 constrained),-0.0846885311116885
+2023-11-30,Random Forest (Step 2 constrained),-0.03209371048655685
+2023-12-29,Random Forest (Step 2 constrained),0.09612447222995768
+2024-01-31,Random Forest (Step 2 constrained),0.008735720866526187
+2024-02-29,Random Forest (Step 2 constrained),0.12932480714176187
+2024-03-28,Random Forest (Step 2 constrained),0.16161795814026014
+2024-04-30,Random Forest (Step 2 constrained),0.04622633881022531
+2024-05-31,Random Forest (Step 2 constrained),0.15039529324966616
+2024-06-28,Random Forest (Step 2 constrained),0.06665859528736973
+2024-07-31,Random Forest (Step 2 constrained),0.12853492288421653
+2024-08-30,Random Forest (Step 2 constrained),0.13926635891203043
+2024-09-30,Random Forest (Step 2 constrained),0.28435134347367397
+2024-10-31,Random Forest (Step 2 constrained),0.31838134169862187
+2024-11-29,Random Forest (Step 2 constrained),0.18565892153492491
+1999-12-31,Torch (gamma 0.10),
+2000-01-31,Torch (gamma 0.10),
+2000-02-29,Torch (gamma 0.10),
+2000-03-31,Torch (gamma 0.10),
+2000-04-28,Torch (gamma 0.10),
+2000-05-31,Torch (gamma 0.10),
+2000-06-30,Torch (gamma 0.10),
+2000-07-31,Torch (gamma 0.10),
+2000-08-31,Torch (gamma 0.10),
+2000-09-29,Torch (gamma 0.10),
+2000-10-31,Torch (gamma 0.10),
+2000-11-30,Torch (gamma 0.10),-0.21620538484103669
+2000-12-29,Torch (gamma 0.10),-0.27829726822597045
+2001-01-31,Torch (gamma 0.10),-0.32844666414980417
+2001-02-28,Torch (gamma 0.10),-0.5070787417133578
+2001-03-30,Torch (gamma 0.10),-0.5023417771469534
+2001-04-30,Torch (gamma 0.10),-0.4262884031625189
+2001-05-31,Torch (gamma 0.10),-0.30667397617613845
+2001-06-29,Torch (gamma 0.10),-0.3618016923274795
+2001-07-31,Torch (gamma 0.10),-0.2896745094043417
+2001-08-31,Torch (gamma 0.10),-0.4467439646351766
+2001-09-28,Torch (gamma 0.10),-0.41435970600808536
+2001-10-31,Torch (gamma 0.10),-0.3337229980274894
+2001-11-30,Torch (gamma 0.10),-0.04920168019370763
+2001-12-31,Torch (gamma 0.10),-0.09255438967421525
+2002-01-31,Torch (gamma 0.10),-0.03449272434152484
+2002-02-28,Torch (gamma 0.10),-0.06255611076686751
+2002-03-28,Torch (gamma 0.10),-0.008226440414456415
+2002-04-30,Torch (gamma 0.10),-0.04112667791430069
+2002-05-31,Torch (gamma 0.10),-0.06855006741078018
+2002-06-28,Torch (gamma 0.10),-0.11765836792599249
+2002-07-31,Torch (gamma 0.10),-0.18177571152618344
+2002-08-30,Torch (gamma 0.10),-0.1483154892538866
+2002-09-30,Torch (gamma 0.10),-0.15381081085712778
+2002-10-31,Torch (gamma 0.10),-0.10922078739992114
+2002-11-29,Torch (gamma 0.10),-0.2058843945793376
+2002-12-31,Torch (gamma 0.10),-0.20033641124593704
+2003-01-31,Torch (gamma 0.10),-0.19292156545981776
+2003-02-28,Torch (gamma 0.10),-0.12484159762938751
+2003-03-31,Torch (gamma 0.10),-0.14822340777156584
+2003-04-30,Torch (gamma 0.10),-0.12755859550030357
+2003-05-30,Torch (gamma 0.10),-0.05828658733865577
+2003-06-30,Torch (gamma 0.10),0.006017283284613484
+2003-07-31,Torch (gamma 0.10),0.0990095351914364
+2003-08-29,Torch (gamma 0.10),0.10607919700048307
+2003-09-30,Torch (gamma 0.10),0.14407059275117873
+2003-10-31,Torch (gamma 0.10),0.1825033885481453
+2003-11-28,Torch (gamma 0.10),0.2578387111122251
+2003-12-31,Torch (gamma 0.10),0.2871614268020506
+2004-01-30,Torch (gamma 0.10),0.3292441126920891
+2004-02-27,Torch (gamma 0.10),0.3387147382879325
+2004-03-31,Torch (gamma 0.10),0.3425227855162347
+2004-04-30,Torch (gamma 0.10),0.21757378023068474
+2004-05-28,Torch (gamma 0.10),0.1565837189467445
+2004-06-30,Torch (gamma 0.10),0.16501106235042373
+2004-07-30,Torch (gamma 0.10),0.0987000268103373
+2004-08-31,Torch (gamma 0.10),0.07213897528445057
+2004-09-30,Torch (gamma 0.10),0.12127763518742563
+2004-10-29,Torch (gamma 0.10),0.11479563353211475
+2004-11-30,Torch (gamma 0.10),0.16317833222043654
+2004-12-31,Torch (gamma 0.10),0.14416466299851294
+2005-01-31,Torch (gamma 0.10),0.10798722782735837
+2005-02-28,Torch (gamma 0.10),0.17053037246964253
+2005-03-31,Torch (gamma 0.10),0.18400936965832004
+2005-04-29,Torch (gamma 0.10),0.2096589600785348
+2005-05-31,Torch (gamma 0.10),0.20906139295074655
+2005-06-30,Torch (gamma 0.10),0.21302760926676
+2005-07-29,Torch (gamma 0.10),0.3052294537852205
+2005-08-31,Torch (gamma 0.10),0.29830501777859686
+2005-09-30,Torch (gamma 0.10),0.28179117539967913
+2005-10-31,Torch (gamma 0.10),0.16346542141583775
+2005-11-30,Torch (gamma 0.10),0.12800893557630166
+2005-12-30,Torch (gamma 0.10),0.14492581093654966
+2006-01-31,Torch (gamma 0.10),0.23324038356262
+2006-02-28,Torch (gamma 0.10),0.1402534279227523
+2006-03-31,Torch (gamma 0.10),0.12063720696396696
+2006-04-28,Torch (gamma 0.10),0.13234561363513664
+2006-05-31,Torch (gamma 0.10),0.0553601037154563
+2006-06-30,Torch (gamma 0.10),0.017607416577429813
+2006-07-31,Torch (gamma 0.10),-0.06753322890565139
+2006-08-31,Torch (gamma 0.10),-0.09527032855832629
+2006-09-29,Torch (gamma 0.10),-0.10224259636512534
+2006-10-31,Torch (gamma 0.10),-0.012777083134738576
+2006-11-30,Torch (gamma 0.10),-0.029874337457312383
+2006-12-29,Torch (gamma 0.10),-0.04227298679630098
+2007-01-31,Torch (gamma 0.10),-0.1001624594909295
+2007-02-28,Torch (gamma 0.10),-0.08225999461843991
+2007-03-30,Torch (gamma 0.10),-0.05141310612245564
+2007-04-30,Torch (gamma 0.10),0.018413474213169412
+2007-05-31,Torch (gamma 0.10),0.08445283947788318
+2007-06-29,Torch (gamma 0.10),0.046017712327802496
+2007-07-31,Torch (gamma 0.10),0.05878726363124476
+2007-08-31,Torch (gamma 0.10),0.09917321868886719
+2007-09-28,Torch (gamma 0.10),0.1385680247649541
+2007-10-31,Torch (gamma 0.10),0.16712892116413425
+2007-11-30,Torch (gamma 0.10),0.102527469513507
+2007-12-31,Torch (gamma 0.10),0.1456915605771587
+2008-01-31,Torch (gamma 0.10),0.015154711262333143
+2008-02-29,Torch (gamma 0.10),0.016046802737176957
+2008-03-31,Torch (gamma 0.10),-0.005087726439215956
+2008-04-30,Torch (gamma 0.10),0.029683774914740058
+2008-05-30,Torch (gamma 0.10),0.06942655900066508
+2008-06-30,Torch (gamma 0.10),0.09918268593251156
+2008-07-31,Torch (gamma 0.10),0.02562284034811224
+2008-08-29,Torch (gamma 0.10),-0.007035593572993326
+2008-09-30,Torch (gamma 0.10),-0.19326811394559895
+2008-10-31,Torch (gamma 0.10),-0.34559782260990823
+2008-11-28,Torch (gamma 0.10),-0.3714637102125362
+2008-12-31,Torch (gamma 0.10),-0.393865481752118
+2009-01-30,Torch (gamma 0.10),-0.3742098476663779
+2009-02-27,Torch (gamma 0.10),-0.42242874501415273
+2009-03-31,Torch (gamma 0.10),-0.39750514037474005
+2009-04-30,Torch (gamma 0.10),-0.4467306220243036
+2009-05-29,Torch (gamma 0.10),-0.40067099897277536
+2009-06-30,Torch (gamma 0.10),-0.3712151490962078
+2009-07-31,Torch (gamma 0.10),-0.23582731384427003
+2009-08-31,Torch (gamma 0.10),-0.18285679907132324
+2009-09-30,Torch (gamma 0.10),-0.03269190948263834
+2009-10-30,Torch (gamma 0.10),0.07963657143528224
+2009-11-30,Torch (gamma 0.10),0.23915253928680036
+2009-12-31,Torch (gamma 0.10),0.292659778159595
+2010-01-29,Torch (gamma 0.10),0.3079864554246472
+2010-02-26,Torch (gamma 0.10),0.49786061109631397
+2010-03-31,Torch (gamma 0.10),0.501023756320758
+2010-04-30,Torch (gamma 0.10),0.5813400241466768
+2010-05-28,Torch (gamma 0.10),0.3078147471687438
+2010-06-30,Torch (gamma 0.10),0.21337361309656533
+2010-07-30,Torch (gamma 0.10),0.19344637345608562
+2010-08-31,Torch (gamma 0.10),0.10409878506492953
+2010-09-30,Torch (gamma 0.10),0.1917117850107335
+2010-10-29,Torch (gamma 0.10),0.2799403931782296
+2010-11-30,Torch (gamma 0.10),0.24449913323674854
+2010-12-31,Torch (gamma 0.10),0.24656375991999346
+2011-01-31,Torch (gamma 0.10),0.32442192364428846
+2011-02-28,Torch (gamma 0.10),0.3149862180070926
+2011-03-31,Torch (gamma 0.10),0.25999842954465135
+2011-04-29,Torch (gamma 0.10),0.25329065649989824
+2011-05-31,Torch (gamma 0.10),0.3311296316219017
+2011-06-30,Torch (gamma 0.10),0.376421318112258
+2011-07-29,Torch (gamma 0.10),0.23313539550686357
+2011-08-31,Torch (gamma 0.10),0.2247471884337855
+2011-09-30,Torch (gamma 0.10),-0.022806498634672323
+2011-10-31,Torch (gamma 0.10),0.13715703455274775
+2011-11-30,Torch (gamma 0.10),0.1019859151688216
+2011-12-30,Torch (gamma 0.10),0.008783907748744824
+2012-01-31,Torch (gamma 0.10),0.09966651589421671
+2012-02-29,Torch (gamma 0.10),0.10060073214154985
+2012-03-30,Torch (gamma 0.10),0.08406818883608369
+2012-04-30,Torch (gamma 0.10),0.06682332415594949
+2012-05-31,Torch (gamma 0.10),-0.012919798304813934
+2012-06-29,Torch (gamma 0.10),0.01829163423736646
+2012-07-31,Torch (gamma 0.10),0.07118482745806265
+2012-08-31,Torch (gamma 0.10),0.17681167699560918
+2012-09-28,Torch (gamma 0.10),0.34685279982184847
+2012-10-31,Torch (gamma 0.10),0.10072686733111014
+2012-11-30,Torch (gamma 0.10),0.14367552648672488
+2012-12-31,Torch (gamma 0.10),0.19091030404142506
+2013-01-31,Torch (gamma 0.10),0.18560861211346524
+2013-02-28,Torch (gamma 0.10),0.13754025848027074
+2013-03-28,Torch (gamma 0.10),0.19421645398953546
+2013-04-30,Torch (gamma 0.10),0.22073714923717058
+2013-05-31,Torch (gamma 0.10),0.36484192152838
+2013-06-28,Torch (gamma 0.10),0.27960784872821787
+2013-07-31,Torch (gamma 0.10),0.36614627075025363
+2013-08-30,Torch (gamma 0.10),0.3079731142963509
+2013-09-30,Torch (gamma 0.10),0.39145054183085626
+2013-10-31,Torch (gamma 0.10),0.4822422808422595
+2013-11-29,Torch (gamma 0.10),0.47333793070476715
+2013-12-31,Torch (gamma 0.10),0.5143188271086419
+2014-01-31,Torch (gamma 0.10),0.3647321313124565
+2014-02-28,Torch (gamma 0.10),0.4429865452065871
+2014-03-31,Torch (gamma 0.10),0.37641005697090213
+2014-04-30,Torch (gamma 0.10),0.3225008829868383
+2014-05-30,Torch (gamma 0.10),0.31809844349787975
+2014-06-30,Torch (gamma 0.10),0.42074702575448764
+2014-07-31,Torch (gamma 0.10),0.3036104275929863
+2014-08-29,Torch (gamma 0.10),0.3547212547206289
+2014-09-30,Torch (gamma 0.10),0.2122660702960002
+2014-10-31,Torch (gamma 0.10),0.18493071961059226
+2014-11-28,Torch (gamma 0.10),0.18683530582219454
+2014-12-31,Torch (gamma 0.10),0.12182049326309574
+2015-01-30,Torch (gamma 0.10),0.13488220976649523
+2015-02-27,Torch (gamma 0.10),0.12827546218193997
+2015-03-31,Torch (gamma 0.10),0.09996520522529506
+2015-04-30,Torch (gamma 0.10),0.11838674691755902
+2015-05-29,Torch (gamma 0.10),0.10169763407690913
+2015-06-30,Torch (gamma 0.10),0.022380996949339815
+2015-07-31,Torch (gamma 0.10),0.07691478605548752
+2015-08-31,Torch (gamma 0.10),-0.019138056611699095
+2015-09-30,Torch (gamma 0.10),-0.020365465152724416
+2015-10-30,Torch (gamma 0.10),0.03691088582731239
+2015-11-30,Torch (gamma 0.10),0.012412884041433925
+2015-12-31,Torch (gamma 0.10),0.04147757087697701
+2016-01-29,Torch (gamma 0.10),-0.0005591707639079901
+2016-02-29,Torch (gamma 0.10),-0.04702753794416148
+2016-03-31,Torch (gamma 0.10),0.061204296927599655
+2016-04-29,Torch (gamma 0.10),0.06142541864407658
+2016-05-31,Torch (gamma 0.10),0.07713769168830265
+2016-06-30,Torch (gamma 0.10),0.13292877834359063
+2016-07-29,Torch (gamma 0.10),0.12980511036278553
+2016-08-31,Torch (gamma 0.10),0.2022443419043094
+2016-09-30,Torch (gamma 0.10),0.2475083452312914
+2016-10-31,Torch (gamma 0.10),0.13626180349964523
+2016-11-30,Torch (gamma 0.10),0.1687207430429707
+2016-12-30,Torch (gamma 0.10),0.17649871383896265
+2017-01-31,Torch (gamma 0.10),0.25842360483186244
+2017-02-28,Torch (gamma 0.10),0.2696757860543695
+2017-03-31,Torch (gamma 0.10),0.1808038379102972
+2017-04-28,Torch (gamma 0.10),0.16337982749503643
+2017-05-31,Torch (gamma 0.10),0.14440241368691997
+2017-06-30,Torch (gamma 0.10),0.1525298904145802
+2017-07-31,Torch (gamma 0.10),0.12958159418943938
+2017-08-31,Torch (gamma 0.10),0.10016947566566792
+2017-09-29,Torch (gamma 0.10),0.15054380693618596
+2017-10-31,Torch (gamma 0.10),0.17744637246235628
+2017-11-30,Torch (gamma 0.10),0.1871808735113023
+2017-12-29,Torch (gamma 0.10),0.152483661106398
+2018-01-31,Torch (gamma 0.10),0.2097625012348956
+2018-02-28,Torch (gamma 0.10),0.1690078186372137
+2018-03-29,Torch (gamma 0.10),0.15597238424964632
+2018-04-30,Torch (gamma 0.10),0.17481807484520928
+2018-05-31,Torch (gamma 0.10),0.17127871098642267
+2018-06-29,Torch (gamma 0.10),0.13516601153172814
+2018-07-31,Torch (gamma 0.10),0.1369182064445733
+2018-08-31,Torch (gamma 0.10),0.194408170814671
+2018-09-28,Torch (gamma 0.10),0.15659114229302684
+2018-10-31,Torch (gamma 0.10),0.05117953966320754
+2018-11-30,Torch (gamma 0.10),0.06288115129233307
+2018-12-31,Torch (gamma 0.10),-0.04087181454549549
+2019-01-31,Torch (gamma 0.10),0.009383831301715384
+2019-02-28,Torch (gamma 0.10),0.07848105598239719
+2019-03-29,Torch (gamma 0.10),0.10378271958779628
+2019-04-30,Torch (gamma 0.10),0.10756474800655447
+2019-05-31,Torch (gamma 0.10),0.02251718436061334
+2019-06-28,Torch (gamma 0.10),0.1372962720599178
+2019-07-31,Torch (gamma 0.10),0.1432864064373094
+2019-08-30,Torch (gamma 0.10),0.06627051289226493
+2019-09-30,Torch (gamma 0.10),0.024600910804373655
+2019-10-31,Torch (gamma 0.10),0.12501703571023137
+2019-11-29,Torch (gamma 0.10),0.10068051459467742
+2019-12-31,Torch (gamma 0.10),0.31103929021382637
+2020-01-31,Torch (gamma 0.10),0.14300633808607044
+2020-02-28,Torch (gamma 0.10),-0.033538207296124445
+2020-03-31,Torch (gamma 0.10),-0.26742841278778684
+2020-04-30,Torch (gamma 0.10),-0.1598864480356159
+2020-05-29,Torch (gamma 0.10),-0.13701118730703077
+2020-06-30,Torch (gamma 0.10),-0.19976727849325926
+2020-07-31,Torch (gamma 0.10),-0.11764390414368098
+2020-08-31,Torch (gamma 0.10),-0.0041440876405132165
+2020-09-30,Torch (gamma 0.10),0.0026901016562392854
+2020-10-30,Torch (gamma 0.10),-0.07817031345462966
+2020-11-30,Torch (gamma 0.10),0.014016718365055914
+2020-12-31,Torch (gamma 0.10),0.028296291789611683
+2021-01-29,Torch (gamma 0.10),0.2151949985500472
+2021-02-26,Torch (gamma 0.10),0.2914886718003582
+2021-03-31,Torch (gamma 0.10),0.5930528860648157
+2021-04-30,Torch (gamma 0.10),0.36651733487342275
+2021-05-28,Torch (gamma 0.10),0.5284556859792029
+2021-06-30,Torch (gamma 0.10),0.4776987802771724
+2021-07-30,Torch (gamma 0.10),0.25689106341443635
+2021-08-31,Torch (gamma 0.10),0.16838571946448777
+2021-09-30,Torch (gamma 0.10),0.17615418726170162
+2021-10-29,Torch (gamma 0.10),0.4179375817745996
+2021-11-30,Torch (gamma 0.10),0.231042425115896
+2021-12-31,Torch (gamma 0.10),0.15223724017995477
+2022-01-31,Torch (gamma 0.10),-0.03038337619865228
+2022-02-28,Torch (gamma 0.10),0.023766345707393777
+2022-03-31,Torch (gamma 0.10),0.13843563639039025
+2022-04-29,Torch (gamma 0.10),0.0703702738968468
+2022-05-31,Torch (gamma 0.10),0.12183387466719786
+2022-06-30,Torch (gamma 0.10),-0.07559931961444266
+2022-07-29,Torch (gamma 0.10),0.06170109281121716
+2022-08-31,Torch (gamma 0.10),0.06879146501605238
+2022-09-30,Torch (gamma 0.10),-0.019904548420476287
+2022-10-31,Torch (gamma 0.10),0.025900932440534374
+2022-11-30,Torch (gamma 0.10),0.05995583444247998
+2022-12-30,Torch (gamma 0.10),-0.01629116857811852
+2023-01-31,Torch (gamma 0.10),0.053379084678749855
+2023-02-28,Torch (gamma 0.10),-0.004322178850377223
+2023-03-31,Torch (gamma 0.10),-0.05244146762158719
+2023-04-28,Torch (gamma 0.10),0.008892404417342625
+2023-05-31,Torch (gamma 0.10),-0.04119260415973869
+2023-06-30,Torch (gamma 0.10),0.2605804218880625
+2023-07-31,Torch (gamma 0.10),0.19068599486201188
+2023-08-31,Torch (gamma 0.10),0.14587196839165206
+2023-09-29,Torch (gamma 0.10),0.1995829153162445
+2023-10-31,Torch (gamma 0.10),-0.017908116761016668
+2023-11-30,Torch (gamma 0.10),0.07767444525647327
+2023-12-29,Torch (gamma 0.10),0.2176905661060864
+2024-01-31,Torch (gamma 0.10),0.22422152907753623
+2024-02-29,Torch (gamma 0.10),0.4292541945761297
+2024-03-28,Torch (gamma 0.10),0.46551511307623716
+2024-04-30,Torch (gamma 0.10),0.3646067899191918
+2024-05-31,Torch (gamma 0.10),0.37208220918418955
+2024-06-28,Torch (gamma 0.10),0.31029856883632556
+2024-07-31,Torch (gamma 0.10),0.22201479072749808
+2024-08-30,Torch (gamma 0.10),0.2830636953647152
+2024-09-30,Torch (gamma 0.10),0.4076132666685732
+2024-10-31,Torch (gamma 0.10),0.5079796194446426
+2024-11-29,Torch (gamma 0.10),0.47046982248355484
+1999-12-31,Torch (gamma 5.0),
+2000-01-31,Torch (gamma 5.0),
+2000-02-29,Torch (gamma 5.0),
+2000-03-31,Torch (gamma 5.0),
+2000-04-28,Torch (gamma 5.0),
+2000-05-31,Torch (gamma 5.0),
+2000-06-30,Torch (gamma 5.0),
+2000-07-31,Torch (gamma 5.0),
+2000-08-31,Torch (gamma 5.0),
+2000-09-29,Torch (gamma 5.0),
+2000-10-31,Torch (gamma 5.0),
+2000-11-30,Torch (gamma 5.0),-0.00208915039685309
+2000-12-29,Torch (gamma 5.0),-0.006786372862885304
+2001-01-31,Torch (gamma 5.0),0.15851275334938797
+2001-02-28,Torch (gamma 5.0),0.019901637274430506
+2001-03-30,Torch (gamma 5.0),-0.0074687661065943045
+2001-04-30,Torch (gamma 5.0),0.14390485374696826
+2001-05-31,Torch (gamma 5.0),0.31704478754217025
+2001-06-29,Torch (gamma 5.0),0.17537565646358244
+2001-07-31,Torch (gamma 5.0),0.23332432559309724
+2001-08-31,Torch (gamma 5.0),0.04949782944732828
+2001-09-28,Torch (gamma 5.0),0.042443866072345404
+2001-10-31,Torch (gamma 5.0),0.10183888807133035
+2001-11-30,Torch (gamma 5.0),0.39770814418809897
+2001-12-31,Torch (gamma 5.0),0.3822404749135364
+2002-01-31,Torch (gamma 5.0),0.232371538724514
+2002-02-28,Torch (gamma 5.0),0.2699620782059058
+2002-03-28,Torch (gamma 5.0),0.3560314575022052
+2002-04-30,Torch (gamma 5.0),0.21406041296924094
+2002-05-31,Torch (gamma 5.0),0.18649450100247633
+2002-06-28,Torch (gamma 5.0),0.13569495681363475
+2002-07-31,Torch (gamma 5.0),0.08277944727550235
+2002-08-30,Torch (gamma 5.0),0.1549290340247953
+2002-09-30,Torch (gamma 5.0),0.12381708646453404
+2002-10-31,Torch (gamma 5.0),0.13081019122614523
+2002-11-29,Torch (gamma 5.0),0.10992755487706418
+2002-12-31,Torch (gamma 5.0),0.04342053066137308
+2003-01-31,Torch (gamma 5.0),-0.008693552087518208
+2003-02-28,Torch (gamma 5.0),-0.053367962133995306
+2003-03-31,Torch (gamma 5.0),-0.09064299371285711
+2003-04-30,Torch (gamma 5.0),-0.024696153577022706
+2003-05-30,Torch (gamma 5.0),0.06643514262718164
+2003-06-30,Torch (gamma 5.0),0.12097958505488737
+2003-07-31,Torch (gamma 5.0),0.18278310677907617
+2003-08-29,Torch (gamma 5.0),0.16522592167517303
+2003-09-30,Torch (gamma 5.0),0.2861108956777447
+2003-10-31,Torch (gamma 5.0),0.31250199400362266
+2003-11-28,Torch (gamma 5.0),0.2301535594900057
+2003-12-31,Torch (gamma 5.0),0.27631561026432516
+2004-01-30,Torch (gamma 5.0),0.3378905671611172
+2004-02-27,Torch (gamma 5.0),0.41279355868703593
+2004-03-31,Torch (gamma 5.0),0.3939914192558167
+2004-04-30,Torch (gamma 5.0),0.24583820802581968
+2004-05-28,Torch (gamma 5.0),0.15874949817003925
+2004-06-30,Torch (gamma 5.0),0.1890836368054718
+2004-07-30,Torch (gamma 5.0),0.13127163001220454
+2004-08-31,Torch (gamma 5.0),0.10904503005673738
+2004-09-30,Torch (gamma 5.0),0.15883655970146138
+2004-10-29,Torch (gamma 5.0),0.1267773260141951
+2004-11-30,Torch (gamma 5.0),0.1750245855331043
+2004-12-31,Torch (gamma 5.0),0.17727209697869983
+2005-01-31,Torch (gamma 5.0),0.15561700548567958
+2005-02-28,Torch (gamma 5.0),0.15336574863005525
+2005-03-31,Torch (gamma 5.0),0.1557659753381897
+2005-04-29,Torch (gamma 5.0),0.16818920080941635
+2005-05-31,Torch (gamma 5.0),0.19625549822878985
+2005-06-30,Torch (gamma 5.0),0.20778840868519888
+2005-07-29,Torch (gamma 5.0),0.30677166754069396
+2005-08-31,Torch (gamma 5.0),0.29262483083164614
+2005-09-30,Torch (gamma 5.0),0.2541200649924198
+2005-10-31,Torch (gamma 5.0),0.17293088385365385
+2005-11-30,Torch (gamma 5.0),0.1380027491407223
+2005-12-30,Torch (gamma 5.0),0.12451041472433477
+2006-01-31,Torch (gamma 5.0),0.1794864962267475
+2006-02-28,Torch (gamma 5.0),0.14190093445187224
+2006-03-31,Torch (gamma 5.0),0.16108934666137942
+2006-04-28,Torch (gamma 5.0),0.18411587778230043
+2006-05-31,Torch (gamma 5.0),0.0993923541423698
+2006-06-30,Torch (gamma 5.0),0.06548979112407682
+2006-07-31,Torch (gamma 5.0),-0.008741603597821612
+2006-08-31,Torch (gamma 5.0),0.000840906475911618
+2006-09-29,Torch (gamma 5.0),0.006051901332722487
+2006-10-31,Torch (gamma 5.0),0.09014328408432948
+2006-11-30,Torch (gamma 5.0),0.07869929307927959
+2006-12-29,Torch (gamma 5.0),0.08511166350621768
+2007-01-31,Torch (gamma 5.0),0.04756471841472343
+2007-02-28,Torch (gamma 5.0),0.0451307018869358
+2007-03-30,Torch (gamma 5.0),0.05073519047061548
+2007-04-30,Torch (gamma 5.0),0.08976656462388277
+2007-05-31,Torch (gamma 5.0),0.15834912755715091
+2007-06-29,Torch (gamma 5.0),0.107367817252086
+2007-07-31,Torch (gamma 5.0),0.09004295321631672
+2007-08-31,Torch (gamma 5.0),0.07591397167640324
+2007-09-28,Torch (gamma 5.0),0.09867134854415549
+2007-10-31,Torch (gamma 5.0),0.11310890233731552
+2007-11-30,Torch (gamma 5.0),0.05684300965136502
+2007-12-31,Torch (gamma 5.0),0.049496517390348105
+2008-01-31,Torch (gamma 5.0),-0.056394517817351164
+2008-02-29,Torch (gamma 5.0),-0.031100572251944625
+2008-03-31,Torch (gamma 5.0),-0.0754991062801813
+2008-04-30,Torch (gamma 5.0),-0.06370205159454667
+2008-05-30,Torch (gamma 5.0),-0.03717529832399924
+2008-06-30,Torch (gamma 5.0),-0.11770359779918804
+2008-07-31,Torch (gamma 5.0),-0.07467886191798812
+2008-08-29,Torch (gamma 5.0),-0.0740862324212137
+2008-09-30,Torch (gamma 5.0),-0.192258240735803
+2008-10-31,Torch (gamma 5.0),-0.4032398827307201
+2008-11-28,Torch (gamma 5.0),-0.45541113524830557
+2008-12-31,Torch (gamma 5.0),-0.39793657845788843
+2009-01-30,Torch (gamma 5.0),-0.41062329117013197
+2009-02-27,Torch (gamma 5.0),-0.5171010383543737
+2009-03-31,Torch (gamma 5.0),-0.44968583637622206
+2009-04-30,Torch (gamma 5.0),-0.3866397786017931
+2009-05-29,Torch (gamma 5.0),-0.39693659419921556
+2009-06-30,Torch (gamma 5.0),-0.28580457487097355
+2009-07-31,Torch (gamma 5.0),-0.2469596477831948
+2009-08-31,Torch (gamma 5.0),-0.2218957136413755
+2009-09-30,Torch (gamma 5.0),-0.11871917684684963
+2009-10-30,Torch (gamma 5.0),0.12890456954392482
+2009-11-30,Torch (gamma 5.0),0.33884760882170295
+2009-12-31,Torch (gamma 5.0),0.2569409459727534
+2010-01-29,Torch (gamma 5.0),0.38876770957399964
+2010-02-26,Torch (gamma 5.0),0.7258571994860568
+2010-03-31,Torch (gamma 5.0),0.6382093639017823
+2010-04-30,Torch (gamma 5.0),0.4519004003995013
+2010-05-28,Torch (gamma 5.0),0.31599621162119784
+2010-06-30,Torch (gamma 5.0),0.20866359098060894
+2010-07-30,Torch (gamma 5.0),0.20710323394103725
+2010-08-31,Torch (gamma 5.0),0.09817455066190339
+2010-09-30,Torch (gamma 5.0),0.16193606084962342
+2010-10-29,Torch (gamma 5.0),0.21954177618881032
+2010-11-30,Torch (gamma 5.0),0.19687233198559362
+2010-12-31,Torch (gamma 5.0),0.21226418474991582
+2011-01-31,Torch (gamma 5.0),0.2346883433280995
+2011-02-28,Torch (gamma 5.0),0.23947651147786986
+2011-03-31,Torch (gamma 5.0),0.18241321267301513
+2011-04-29,Torch (gamma 5.0),0.18426090185564203
+2011-05-31,Torch (gamma 5.0),0.25519856797655294
+2011-06-30,Torch (gamma 5.0),0.3208432738887992
+2011-07-29,Torch (gamma 5.0),0.21320780046736454
+2011-08-31,Torch (gamma 5.0),0.24497769038831496
+2011-09-30,Torch (gamma 5.0),0.03468193853727297
+2011-10-31,Torch (gamma 5.0),0.13445645894334546
+2011-11-30,Torch (gamma 5.0),0.11166557162504986
+2011-12-30,Torch (gamma 5.0),0.0264435639511873
+2012-01-31,Torch (gamma 5.0),0.0833487095536769
+2012-02-29,Torch (gamma 5.0),0.08011578640700079
+2012-03-30,Torch (gamma 5.0),0.10866298652440887
+2012-04-30,Torch (gamma 5.0),0.07960670409411019
+2012-05-31,Torch (gamma 5.0),0.012844430183625244
+2012-06-29,Torch (gamma 5.0),0.03592068364150758
+2012-07-31,Torch (gamma 5.0),0.07053910080196113
+2012-08-31,Torch (gamma 5.0),0.15556046737040252
+2012-09-28,Torch (gamma 5.0),0.311828378796984
+2012-10-31,Torch (gamma 5.0),0.13416088710934915
+2012-11-30,Torch (gamma 5.0),0.14759910986418578
+2012-12-31,Torch (gamma 5.0),0.18483911150358012
+2013-01-31,Torch (gamma 5.0),0.2254438582713605
+2013-02-28,Torch (gamma 5.0),0.18083787473225765
+2013-03-28,Torch (gamma 5.0),0.19718174347409456
+2013-04-30,Torch (gamma 5.0),0.21801707078533106
+2013-05-31,Torch (gamma 5.0),0.34270780462445205
+2013-06-28,Torch (gamma 5.0),0.28995094066378746
+2013-07-31,Torch (gamma 5.0),0.3841996945746371
+2013-08-30,Torch (gamma 5.0),0.3225411302335057
+2013-09-30,Torch (gamma 5.0),0.37190177513386447
+2013-10-31,Torch (gamma 5.0),0.4150100774467753
+2013-11-29,Torch (gamma 5.0),0.41195548981787944
+2013-12-31,Torch (gamma 5.0),0.4283470058580663
+2014-01-31,Torch (gamma 5.0),0.28446989449459736
+2014-02-28,Torch (gamma 5.0),0.3451442546525829
+2014-03-31,Torch (gamma 5.0),0.2592634694298275
+2014-04-30,Torch (gamma 5.0),0.2332447612539823
+2014-05-30,Torch (gamma 5.0),0.23458997499878276
+2014-06-30,Torch (gamma 5.0),0.2994163302106263
+2014-07-31,Torch (gamma 5.0),0.176667916112776
+2014-08-29,Torch (gamma 5.0),0.262564554575873
+2014-09-30,Torch (gamma 5.0),0.13908428633985448
+2014-10-31,Torch (gamma 5.0),0.18194469815567205
+2014-11-28,Torch (gamma 5.0),0.20014154063445666
+2014-12-31,Torch (gamma 5.0),0.18925689433636017
+2015-01-30,Torch (gamma 5.0),0.22886057757896916
+2015-02-27,Torch (gamma 5.0),0.23812078269333647
+2015-03-31,Torch (gamma 5.0),0.25677640348133646
+2015-04-30,Torch (gamma 5.0),0.26348621191411525
+2015-05-29,Torch (gamma 5.0),0.24130988734909975
+2015-06-30,Torch (gamma 5.0),0.16892955619043448
+2015-07-31,Torch (gamma 5.0),0.20671826511403046
+2015-08-31,Torch (gamma 5.0),0.08289972494777254
+2015-09-30,Torch (gamma 5.0),0.11324227696852529
+2015-10-30,Torch (gamma 5.0),0.12142213060760265
+2015-11-30,Torch (gamma 5.0),0.09730951587378556
+2015-12-31,Torch (gamma 5.0),0.05426535077604977
+2016-01-29,Torch (gamma 5.0),-0.0694531182830126
+2016-02-29,Torch (gamma 5.0),-0.12438673808421652
+2016-03-31,Torch (gamma 5.0),-0.06911405767701562
+2016-04-29,Torch (gamma 5.0),-0.07736503109225856
+2016-05-31,Torch (gamma 5.0),-0.06055601510099207
+2016-06-30,Torch (gamma 5.0),-0.02781295815164564
+2016-07-29,Torch (gamma 5.0),-0.01022302090000382
+2016-08-31,Torch (gamma 5.0),0.0482298664476577
+2016-09-30,Torch (gamma 5.0),0.06943269455886125
+2016-10-31,Torch (gamma 5.0),-0.0367338862718416
+2016-11-30,Torch (gamma 5.0),0.027643858642589336
+2016-12-30,Torch (gamma 5.0),0.061999885953949674
+2017-01-31,Torch (gamma 5.0),0.20957533315434795
+2017-02-28,Torch (gamma 5.0),0.23708197103219808
+2017-03-31,Torch (gamma 5.0),0.17244409448243947
+2017-04-28,Torch (gamma 5.0),0.18571067343592151
+2017-05-31,Torch (gamma 5.0),0.17419483229595079
+2017-06-30,Torch (gamma 5.0),0.18415114847267366
+2017-07-31,Torch (gamma 5.0),0.1835018960375827
+2017-08-31,Torch (gamma 5.0),0.19454287316164187
+2017-09-29,Torch (gamma 5.0),0.20944090260867898
+2017-10-31,Torch (gamma 5.0),0.2782253148500078
+2017-11-30,Torch (gamma 5.0),0.23560950794333468
+2017-12-29,Torch (gamma 5.0),0.2539501087471303
+2018-01-31,Torch (gamma 5.0),0.30056467605516035
+2018-02-28,Torch (gamma 5.0),0.24666981484916595
+2018-03-29,Torch (gamma 5.0),0.23060750587179002
+2018-04-30,Torch (gamma 5.0),0.24073013296475598
+2018-05-31,Torch (gamma 5.0),0.26973588399669746
+2018-06-29,Torch (gamma 5.0),0.2316218372133838
+2018-07-31,Torch (gamma 5.0),0.23457818576233413
+2018-08-31,Torch (gamma 5.0),0.2322314973467421
+2018-09-28,Torch (gamma 5.0),0.20340804240904298
+2018-10-31,Torch (gamma 5.0),0.09678277411195735
+2018-11-30,Torch (gamma 5.0),0.04303026730155746
+2018-12-31,Torch (gamma 5.0),-0.08779011689455485
+2019-01-31,Torch (gamma 5.0),-0.054527323685821916
+2019-02-28,Torch (gamma 5.0),0.001239188433326932
+2019-03-29,Torch (gamma 5.0),0.016290998696907755
+2019-04-30,Torch (gamma 5.0),0.02676443707017029
+2019-05-31,Torch (gamma 5.0),-0.0678170691395591
+2019-06-28,Torch (gamma 5.0),0.014139470099050921
+2019-07-31,Torch (gamma 5.0),0.005501477635874608
+2019-08-30,Torch (gamma 5.0),-0.03138736350053706
+2019-09-30,Torch (gamma 5.0),-0.008298144094401994
+2019-10-31,Torch (gamma 5.0),0.091547005143368
+2019-11-29,Torch (gamma 5.0),0.15151119228715748
+2019-12-31,Torch (gamma 5.0),0.35713813594732646
+2020-01-31,Torch (gamma 5.0),0.2236789294064483
+2020-02-28,Torch (gamma 5.0),0.0651086630803106
+2020-03-31,Torch (gamma 5.0),-0.10852183765122136
+2020-04-30,Torch (gamma 5.0),-0.00468987081185912
+2020-05-29,Torch (gamma 5.0),0.024097032706184462
+2020-06-30,Torch (gamma 5.0),-0.01046485910861572
+2020-07-31,Torch (gamma 5.0),0.04381252901457833
+2020-08-31,Torch (gamma 5.0),0.1936507931664775
+2020-09-30,Torch (gamma 5.0),0.1536596205562648
+2020-10-30,Torch (gamma 5.0),0.055840940050411625
+2020-11-30,Torch (gamma 5.0),0.1997725492017719
+2020-12-31,Torch (gamma 5.0),0.23086998639908152
+2021-01-29,Torch (gamma 5.0),0.4437320546104584
+2021-02-26,Torch (gamma 5.0),0.5078893064551322
+2021-03-31,Torch (gamma 5.0),0.7746899127471929
+2021-04-30,Torch (gamma 5.0),0.6346312510055698
+2021-05-28,Torch (gamma 5.0),0.6846319446775215
+2021-06-30,Torch (gamma 5.0),0.6388309553062774
+2021-07-30,Torch (gamma 5.0),0.5617584884300082
+2021-08-31,Torch (gamma 5.0),0.4099317628909487
+2021-09-30,Torch (gamma 5.0),0.3870008223893906
+2021-10-29,Torch (gamma 5.0),0.6327189337707522
+2021-11-30,Torch (gamma 5.0),0.3820424520879302
+2021-12-31,Torch (gamma 5.0),0.3040349338906867
+2022-01-31,Torch (gamma 5.0),0.10219112709455236
+2022-02-28,Torch (gamma 5.0),0.15891383598702702
+2022-03-31,Torch (gamma 5.0),0.20720466634767165
+2022-04-29,Torch (gamma 5.0),0.037255895274255435
+2022-05-31,Torch (gamma 5.0),0.10888972735926616
+2022-06-30,Torch (gamma 5.0),-0.06387551455766871
+2022-07-29,Torch (gamma 5.0),0.022992853736976127
+2022-08-31,Torch (gamma 5.0),-0.00948865462869275
+2022-09-30,Torch (gamma 5.0),-0.11663151465760135
+2022-10-31,Torch (gamma 5.0),-0.10486689334657684
+2022-11-30,Torch (gamma 5.0),-0.04612033648259539
+2022-12-30,Torch (gamma 5.0),-0.15314072683333046
+2023-01-31,Torch (gamma 5.0),-0.028901865524608827
+2023-02-28,Torch (gamma 5.0),-0.048704056658326
+2023-03-31,Torch (gamma 5.0),-0.0505814174203445
+2023-04-28,Torch (gamma 5.0),0.047763202440913144
+2023-05-31,Torch (gamma 5.0),-0.019463142517037513
+2023-06-30,Torch (gamma 5.0),0.24403962560991044
+2023-07-31,Torch (gamma 5.0),0.17478207177535454
+2023-08-31,Torch (gamma 5.0),0.16352172808496968
+2023-09-29,Torch (gamma 5.0),0.2741142534169052
+2023-10-31,Torch (gamma 5.0),0.10268644138079286
+2023-11-30,Torch (gamma 5.0),0.1474223485168793
+2023-12-29,Torch (gamma 5.0),0.357164587465161
+2024-01-31,Torch (gamma 5.0),0.23266639642311926
+2024-02-29,Torch (gamma 5.0),0.35496607773617406
+2024-03-28,Torch (gamma 5.0),0.3593777268759306
+2024-04-30,Torch (gamma 5.0),0.29921671768308045
+2024-05-31,Torch (gamma 5.0),0.37689022989693366
+2024-06-28,Torch (gamma 5.0),0.3126448023251276
+2024-07-31,Torch (gamma 5.0),0.24353072432271272
+2024-08-30,Torch (gamma 5.0),0.28768518972551327
+2024-09-30,Torch (gamma 5.0),0.3899922120348618
+2024-10-31,Torch (gamma 5.0),0.47171899901018355
+2024-11-29,Torch (gamma 5.0),0.41999518119111934

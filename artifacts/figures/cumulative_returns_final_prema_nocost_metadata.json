@@ -1,0 +1,32 @@
+{
+  "final_specification": "final_prema_main",
+  "includes_ma_3_12": false,
+  "tsmom_sign_12_winsorized": false,
+  "return_series": "net_return at one_way 0 bps; equal to gross_return in final no-cost runs",
+  "summary": [
+    {
+      "strategy": "Elastic Net",
+      "n_obs": 300,
+      "start": "1999-12-31",
+      "end": "2024-11-29",
+      "final_wealth": 1.965487223697594,
+      "cumulative_return": 0.965487223697594
+    },
+    {
+      "strategy": "Random Forest",
+      "n_obs": 300,
+      "start": "1999-12-31",
+      "end": "2024-11-29",
+      "final_wealth": 8.510786642278214,
+      "cumulative_return": 7.510786642278214
+    },
+    {
+      "strategy": "Torch (gamma=5.0)",
+      "n_obs": 300,
+      "start": "1999-12-31",
+      "end": "2024-11-29",
+      "final_wealth": 23.619535446166992,
+      "cumulative_return": 22.619535446166992
+    }
+  ]
+}

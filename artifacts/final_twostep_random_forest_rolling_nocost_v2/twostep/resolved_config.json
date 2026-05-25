@@ -1,0 +1,94 @@
+{
+  "name": "final_twostep_random_forest_rolling_nocost_v2",
+  "enforce_feature_consistency": false,
+  "dataset": {
+    "datacube_path": "DataCube_1990_2024.mat",
+    "panel_output_dir": "artifacts/datasets/panel",
+    "sample_assets": null,
+    "sample_time": null
+  },
+  "features": {
+    "construction_mode": "direct_cube",
+    "datacube_path": "DataCube_1990_2024.mat",
+    "panel_input_dir": "artifacts/datasets/panel/panel.parquet",
+    "feature_output_dir": "artifacts/features/features.parquet",
+    "winsorize_lower": 0.01,
+    "winsorize_upper": 0.99,
+    "min_history": 26,
+    "rsi_window": 14,
+    "sma_windows": [
+      3,
+      6,
+      12
+    ],
+    "volatility_windows": [
+      3,
+      6,
+      12
+    ],
+    "bollinger_window": 20
+  },
+  "cv": {
+    "scheme": "rolling",
+    "train_min_periods": 120,
+    "validation_periods": 1,
+    "step_periods": 1,
+    "train_window_periods": 120
+  },
+  "twostep": {
+    "model_type": "random_forest",
+    "params": {
+      "n_estimators": 120,
+      "max_depth": 6,
+      "min_samples_leaf": 10,
+      "random_state": 42,
+      "n_jobs": -1
+    },
+    "feature_columns": [
+      "mom_12_1",
+      "mom_6_1",
+      "mom_3_1",
+      "tsmom_12",
+      "tsmom_sign_12",
+      "reversal_1m",
+      "ma_gap_12m",
+      "ma_crossover_6_12",
+      "vol_3m",
+      "vol_12m",
+      "vol_regime_3_12",
+      "log_volume",
+      "abnormal_log_volume"
+    ],
+    "target_column": "target_ret_1m"
+  },
+  "onestep": {
+    "feature_columns": null,
+    "target_column": "target_ret_1m",
+    "learning_rate": 0.01,
+    "epochs": 200,
+    "batch_dates": 24,
+    "l2_penalty": 0.0001,
+    "turnover_penalty": 0.1,
+    "risk_aversion": 0.1,
+    "weight_clip": 0.1,
+    "selection_quantile": 0.1,
+    "random_seed": 42
+  },
+  "backtest": {
+    "top_quantile": 0.1,
+    "transaction_cost_bps": [
+      0.0
+    ],
+    "conventions": [
+      "one_way"
+    ],
+    "initial_turnover_from_zero": true,
+    "turnover_use_effective_weights": true,
+    "missing_return_policy": "exclude_renorm"
+  },
+  "tracking": {
+    "enabled": false,
+    "tracking_uri": "sqlite:///artifacts/mlflow.db",
+    "experiment_name": "fhdata-experiments"
+  }
+}

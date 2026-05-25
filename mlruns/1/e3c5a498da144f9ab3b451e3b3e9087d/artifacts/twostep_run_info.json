@@ -1,0 +1,4 @@
+{
+  "rows": 134988,
+  "prediction_path": "artifacts/twostep_elasticnet_v1/twostep/predictions.parquet"
+}

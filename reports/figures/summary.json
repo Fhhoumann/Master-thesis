@@ -1,0 +1,42 @@
+{
+  "generated_at_utc": "2026-02-19T20:27:35Z",
+  "datacube_path": "/Users/christian/Developer/fhdata/DataCube_1990_2024.mat",
+  "shape": {
+    "n_assets": 500,
+    "n_lookback": 121,
+    "n_time": 420
+  },
+  "date_range": {
+    "start": "1989-12-29",
+    "end": "2024-11-29"
+  },
+  "current_slice_quality": {
+    "returns_missing_mean_pct": 0.29761904761904767,
+    "volume_missing_mean_pct": 0.06571428571428573
+  },
+  "membership_churn": {
+    "mean_pct": 4.2585027242922635,
+    "max_pct": 10.606060606060607
+  },
+  "crsp_explorer": {
+    "enabled": true,
+    "output_path": "reports/figures/08_crsp_id_returns_explorer.html",
+    "included_ids": 500,
+    "min_months": 24,
+    "max_ids": 500,
+    "aggregator": "median",
+    "lookup_csv_path": null,
+    "lookup_entries": 0,
+    "lookup_template_path": "reports/figures/08_crsp_id_lookup_template.csv",
+    "lookup_mapped_ids": 0
+  },
+  "figures": [
+    "reports/figures/01_missingness_by_month.png",
+    "reports/figures/02_returns_quantiles_by_month.png",
+    "reports/figures/03_volume_quantiles_by_month.png",
+    "reports/figures/04_current_return_distribution.png",
+    "reports/figures/05_current_volume_distribution_log10.png",
+    "reports/figures/06_membership_churn.png",
+    "reports/figures/07_lookback_profile.png"
+  ]
+}

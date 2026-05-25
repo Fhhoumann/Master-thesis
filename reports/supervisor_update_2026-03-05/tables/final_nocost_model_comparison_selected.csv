@@ -1,0 +1,4 @@
+experiment,pipeline,model_type,n_periods,annual_return,annual_volatility,sharpe,max_drawdown,avg_turnover
+final_twostep_random_forest_rolling_nocost_v2,twostep,random_forest,300.0,-0.0090444919771861,0.0730545814444932,-0.3579915132269091,-0.2843055969196366,0.573978231292517
+final_onestep_torch_rolling_nocost_v1,onestep,torch_linear_policy,300.0,-0.0243657838834878,0.0705101476255543,-0.5867394301877188,-0.5612367110699021,0.4385937624878552
+final_twostep_elasticnet_rolling_nocost_v1,twostep,elasticnet,300.0,-0.0049860961342864,0.0295981163350328,-0.7475498833550613,-0.2087816608445721,0.3467687074829932

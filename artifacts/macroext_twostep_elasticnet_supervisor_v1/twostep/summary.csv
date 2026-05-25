@@ -1,0 +1,2 @@
+cost_convention,cost_bps,avg_turnover,n_periods,periods_per_year,mean_period_return,std_period_return,annual_return,annual_volatility,sharpe,max_drawdown,cumulative_return,experiment,pipeline,model_type
+one_way,0.0,0.46840000000000004,300.0,12.0,0.008320724153972649,0.07680946038275921,0.06619025682035296,0.26607577576977554,0.3083729909610696,-0.6614288176604753,3.9644110910958865,macroext_twostep_elasticnet_supervisor_v1,twostep,elasticnet

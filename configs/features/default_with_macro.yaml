@@ -1,0 +1,18 @@
+construction_mode: direct_cube
+datacube_path: DataCube_1990_2024.mat
+panel_input_dir: artifacts/datasets/panel/panel.parquet
+feature_output_dir: artifacts/features/features_with_macro.parquet
+macro_factors_path: artifacts/macro/macro_factors.parquet
+macro_columns:
+  - macro_vix
+  - macro_epu
+  - macro_credit_spread
+  - macro_term_spread
+macro_lag_periods: 0
+winsorize_lower: 0.01
+winsorize_upper: 0.99
+min_history: 26
+rsi_window: 14
+sma_windows: [3, 6, 12]
+volatility_windows: [3, 6, 12]
+bollinger_window: 20

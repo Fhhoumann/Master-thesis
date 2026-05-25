@@ -1,0 +1,21 @@
+{
+  "final_specification": "final_prema_main",
+  "includes_ma_3_12": false,
+  "tsmom_sign_12_winsorized": false,
+  "models": [
+    "Elastic Net",
+    "Random Forest",
+    "Torch (gamma=5.0)"
+  ],
+  "factor_models": [
+    "ff3",
+    "carhart4",
+    "ff5"
+  ],
+  "strategy_start": "1999-12-31",
+  "strategy_end": "2024-11-29",
+  "strategy_obs_per_model": 300,
+  "factor_panel_start": "1989-12-29",
+  "factor_panel_end": "2024-11-29",
+  "factor_panel_rows": 420
+}

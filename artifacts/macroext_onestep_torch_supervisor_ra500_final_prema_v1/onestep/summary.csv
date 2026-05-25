@@ -1,0 +1,2 @@
+cost_convention,cost_bps,avg_turnover,n_periods,periods_per_year,mean_period_return,std_period_return,annual_return,annual_volatility,sharpe,max_drawdown,cumulative_return,experiment,pipeline,model_type
+one_way,0.0,0.5338844060897827,300.0,12.0,0.012166894972324371,0.0558089017868042,0.13483011722564697,0.19332770681873274,0.6630598056560957,-0.5657714009284973,22.619535446166992,macroext_onestep_torch_supervisor_ra500_final_prema_v1,onestep,torch_linear_policy

@@ -1,0 +1,2 @@
+cost_convention,cost_bps,avg_turnover,n_periods,periods_per_year,mean_period_return,std_period_return,annual_return,annual_volatility,sharpe,max_drawdown,cumulative_return,experiment,pipeline,model_type
+one_way,0.0,0.513343334197998,300.0,12.0,0.008482866920530796,0.05939766392111778,0.08319342136383057,0.20575954352455364,0.4078011218303958,-0.6204298734664917,6.373104572296143,final_onestep_torch_rolling_nocost_v2,onestep,torch_linear_policy

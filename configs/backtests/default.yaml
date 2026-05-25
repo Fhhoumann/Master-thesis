@@ -1,0 +1,4 @@
+top_quantile: 0.10
+transaction_cost_bps: [10.0, 25.0, 50.0]
+conventions: [one_way, round_trip]
+missing_return_policy: exclude_renorm

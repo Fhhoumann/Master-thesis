@@ -1,0 +1,2 @@
+cost_convention,cost_bps,avg_turnover,n_periods,periods_per_year,mean_period_return,std_period_return,annual_return,annual_volatility,sharpe,max_drawdown,cumulative_return,experiment,pipeline,model_type
+one_way,0.0,0.7339378844017652,300.0,12.0,0.009263965191176815,0.06458816269293463,0.089428639679628,0.2237399587033749,0.41687080961716416,-0.5113820132747059,7.510786642278214,macroext_twostep_random_forest_supervisor_constrained_final_prema_v1,twostep,random_forest

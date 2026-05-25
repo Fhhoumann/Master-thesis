@@ -1,0 +1,17 @@
+[2026-04-20 17:07:49] Starting configs/experiments/macroext_twostep_elasticnet_supervisor_constrained_v1.yaml
+/Users/frederikhoumann/.matplotlib is not a writable directory
+Matplotlib created a temporary cache directory at /var/folders/2n/nrvqrrtx01s114xjzbjwsc0r0000gn/T/matplotlib-cb721xck because there was an issue with the default path (/Users/frederikhoumann/.matplotlib); it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l1dcachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l2cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.l3cachesize'. Detail: [errno 1] Operation not permitted
+/Users/runner/work/crossbow/crossbow/arrow/cpp/src/arrow/util/cpu_info.cc:239: IOError: sysctlbyname failed for 'hw.optional.neon'. Detail: [errno 1] Operation not permitted
+Using 32 features: ['mom_12_1', 'mom_6_1', 'mom_3_1', 'tsmom_12', 'tsmom_sign_12']...
+Wrote predictions: artifacts/macroext_twostep_elasticnet_supervisor_constrained_v1/twostep/predictions.parquet
+Wrote weights: artifacts/macroext_twostep_elasticnet_supervisor_constrained_v1/twostep/weights.parquet
+Wrote backtest: artifacts/macroext_twostep_elasticnet_supervisor_constrained_v1/twostep/backtest.parquet
+Wrote summary: artifacts/macroext_twostep_elasticnet_supervisor_constrained_v1/twostep/summary.csv
+Wrote missing-return diagnostics: artifacts/macroext_twostep_elasticnet_supervisor_constrained_v1/twostep/missing_oos_returns_by_month.csv
+Wrote model diagnostics: artifacts/macroext_twostep_elasticnet_supervisor_constrained_v1/twostep/model_diagnostics.csv
+Wrote feature audit: artifacts/macroext_twostep_elasticnet_supervisor_constrained_v1/twostep/feature_audit.json
+Wrote config snapshot: artifacts/macroext_twostep_elasticnet_supervisor_constrained_v1/twostep/resolved_config.json
+[2026-04-20 17:17:07] Finished configs/experiments/macroext_twostep_elasticnet_supervisor_constrained_v1.yaml

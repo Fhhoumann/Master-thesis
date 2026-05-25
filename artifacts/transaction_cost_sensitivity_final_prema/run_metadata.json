@@ -1,0 +1,27 @@
+{
+  "final_specification": "final_prema_main",
+  "includes_ma_3_12": false,
+  "tsmom_sign_12_winsorized": false,
+  "cost_bps": [
+    0.0,
+    10.0,
+    25.0,
+    50.0
+  ],
+  "conventions": [
+    "one_way"
+  ],
+  "models": [
+    "Elastic Net",
+    "Random Forest",
+    "Torch (gamma=5.0)"
+  ],
+  "evaluation_layer_only": true,
+  "model_retraining": false,
+  "outputs": {
+    "summary": "cost_sensitivity_summary.csv",
+    "presentation": "cost_sensitivity_presentation.csv",
+    "markdown": "cost_sensitivity_summary.md",
+    "validation": "zero_bps_validation.csv"
+  }
+}

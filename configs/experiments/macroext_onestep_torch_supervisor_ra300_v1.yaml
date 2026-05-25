@@ -1,0 +1,38 @@
+name: macroext_onestep_torch_supervisor_ra300_v1
+dataset:
+  datacube_path: DataCube_1990_2024.mat
+  panel_output_dir: artifacts/datasets/panel
+features:
+  construction_mode: direct_cube
+  panel_input_dir: artifacts/datasets/panel/panel.parquet
+  feature_output_dir: artifacts/features/features_with_macro.parquet
+  macro_factors_path: artifacts/macro/macro_factors.parquet
+  winsorize_lower: 0.01
+  winsorize_upper: 0.99
+  min_history: 26
+cv:
+  scheme: rolling
+  train_min_periods: 120
+  train_window_periods: 120
+  validation_periods: 1
+  step_periods: 1
+onestep:
+  feature_set_name: macro_main_effects
+  target_column: target_ret_1m
+  learning_rate: 0.01
+  epochs: 120
+  batch_dates: 24
+  l2_penalty: 0.0
+  turnover_penalty: 0.02
+  risk_aversion: 3.0
+  weight_clip: 0.10
+  selection_quantile: 0.10
+  random_seed: 42
+backtest:
+  top_quantile: 0.10
+  transaction_cost_bps: [0.0]
+  conventions: [one_way]
+tracking:
+  enabled: false
+  tracking_uri: sqlite:///artifacts/mlflow.db
+  experiment_name: fhdata-experiments

@@ -1,0 +1,4 @@
+strategy_a,strategy_b,n_obs,block_size,bootstrap_resamples,delta_sharpe,se_delta,ci_lower,ci_upper,p_value,method
+Elastic Net Step 2 constrained,Random Forest Step 2 constrained,300,6,999,-0.06698784072409569,0.03255393645098587,-0.1315789674789598,-0.0023967139692315786,0.042,Ledoit-Wolf style studentized circular block bootstrap
+Elastic Net Step 2 constrained,Torch gamma 5.0,300,6,999,-0.13805648229139617,0.038765853665322175,-0.22473726578227746,-0.051375698800514874,0.002,Ledoit-Wolf style studentized circular block bootstrap
+Random Forest Step 2 constrained,Torch gamma 5.0,300,6,999,-0.07106864156730047,0.04321727786804702,-0.16452096879180295,0.022383685657202015,0.113,Ledoit-Wolf style studentized circular block bootstrap

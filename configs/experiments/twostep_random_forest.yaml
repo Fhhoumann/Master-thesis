@@ -1,0 +1,60 @@
+name: twostep_random_forest_v1
+dataset:
+  datacube_path: DataCube_1990_2024.mat
+  panel_output_dir: artifacts/datasets/panel
+features:
+  panel_input_dir: artifacts/datasets/panel/panel.parquet
+  feature_output_dir: artifacts/features/features.parquet
+  winsorize_lower: 0.01
+  winsorize_upper: 0.99
+  min_history: 26
+cv:
+  scheme: expanding
+  train_min_periods: 120
+  validation_periods: 1
+  step_periods: 1
+twostep:
+  model_type: random_forest
+  params:
+    n_estimators: 600
+    max_depth: 8
+    min_samples_leaf: 5
+    random_state: 42
+    n_jobs: -1
+  feature_columns:
+    - mom_12_1
+    - mom_6_1
+    - cs_mom_12_1
+    - tsmom_12
+    - reversal_1m
+    - ma_gap_12m
+    - ma_crossover_6_12
+    - vol_3m
+    - vol_12m
+    - vol_regime_3_12
+    - log_volume
+    - abnormal_log_volume
+  target_column: target_ret_1m
+onestep:
+  feature_columns:
+    - mom_12_1
+    - mom_6_1
+    - cs_mom_12_1
+    - tsmom_12
+    - reversal_1m
+    - ma_gap_12m
+    - ma_crossover_6_12
+    - vol_3m
+    - vol_12m
+    - vol_regime_3_12
+    - log_volume
+    - abnormal_log_volume
+backtest:
+  top_quantile: 0.10
+  transaction_cost_bps: [10.0, 25.0, 50.0]
+  conventions: [one_way, round_trip]
+tracking:
+  enabled: true
+  tracking_uri: sqlite:///artifacts/mlflow.db
+  experiment_name: fhdata-experiments
+

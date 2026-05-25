@@ -1,0 +1,10 @@
+run_key,model,serial_corr_flag_p<0.05,heterosk_flag_p<0.05,high_multicoll_vif>5,influence_many_points
+EN_twostep,capm,False,False,False,True
+RF_twostep,capm,False,False,False,True
+Torch_onestep,capm,False,False,False,True
+EN_twostep,carhart4,False,True,False,True
+RF_twostep,carhart4,False,False,False,True
+Torch_onestep,carhart4,False,True,False,True
+EN_twostep,ff3,False,True,False,True
+RF_twostep,ff3,False,True,False,True
+Torch_onestep,ff3,False,True,False,True
